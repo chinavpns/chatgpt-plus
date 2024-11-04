@@ -66,7 +66,7 @@
 
 ### 第一步：打开Wildcard官网并完成帐号注册。
 
-* Wildcard官网：<a href="https://bewildcard.com/i/ANYOFAI">https://bewildcard.com</a>
+* Wildcard官网：<a href="https://bewildcard.com/i/ANYOFAI">https://bewildcard.com/i/ANYOFAI</a>
 
 ![国内ChatGPT Plus开通第一步：打开Wildcard官网并完成帐号注册](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E5%BC%80%E9%80%9A-1.jpg)
 
