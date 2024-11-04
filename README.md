@@ -36,7 +36,7 @@
 
 ### 第四步：设置ChatGPT密码，点击“继续”按钮。
 
-### 第五步：打开邮箱，查收来自OpenAI的验证邮件，并点击邮件中的“Verify email address”按钮。
+### 第五步：打开邮箱，查收来自OpenAI的验证邮件，并点击“Verify email address”。
 
 ### 第六步：填写个人姓名，点击“Continue”按钮。
 
