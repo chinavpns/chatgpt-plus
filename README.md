@@ -116,7 +116,9 @@
 
 ![中国ChatGPT Plus订阅第十一步：按照提示完成后续操作，即可成功开通ChatGPT Plus帐号](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E5%BC%80%E9%80%9A-11.jpg)
 
-小结，我们先来简单总结一下国内使用支付宝开通ChatGPT Plus账号的流程：<a href="https://bewildcard.com/i/ANYOFAI">先申请一张Wildcard虚拟信用卡</a>，再使用支付宝为其充值20美金，然后使用该卡支付ChatGPT Plus订阅费用。当你完成以上步骤之后，你便成功开通了ChatGPT Plus账号，接下来就可以尽情享受ChatGPT Plus的所有功能和服务。
+小结，我们先来简单总结一下国内使用支付宝开通ChatGPT Plus账号的流程：先申请一张Wildcard虚拟信用卡，再使用支付宝为其充值20美金，然后使用该卡支付ChatGPT Plus订阅费用。当你完成以上步骤之后，你便成功开通了ChatGPT Plus账号，接下来就可以尽情享受ChatGPT Plus的所有功能和服务。
+
+* Wildcard官网：<a href="https://bewildcard.com/i/ANYOFAI">https://bewildcard.com/i/ANYOFAI</a>
 
 ## ChatGPT Plus购买方式二：购买ChatGPT Plus合租共享帐号
 
