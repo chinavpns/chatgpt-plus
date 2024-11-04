@@ -20,7 +20,7 @@
 
 </blockquote>
 
-## 在中国注册ChatGPT帐号流程
+## 2024年在中国注册ChatGPT帐号流程
 
 正如前文提到的，在中国购买ChatGPT Plus账号有三种方法。除了直接使用ChatGPT Plus合租共享账号外，其他两种方法都要求用户已经注册好了ChatGPT账号。因此，在购买ChatGPT Plus之前，请确保你已完成ChatGPT账号的注册。
 
