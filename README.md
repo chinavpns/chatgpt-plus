@@ -175,17 +175,27 @@ OK，截止到目前为止，你已经成功获取了一个ChatGPT Plus合租共
 
 * 星际放映厅官网：<a href="https://naifeistation.com?invite=3235">https://naifeistation.com</a>
 
+![国内ChatGPT Plus代充值第一步：打开星际放映厅官网，并使用手机号登录](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E4%BB%A3%E5%85%85%E5%80%BC-1.jpg)
+
 ### 第二步：点击官网首页的“AI工具箱”，然后选择“ChatGPT Plus代充”。
+
+![国内ChatGPT Plus代充值第二步：点击官网首页的“AI工具箱”，然后选择“ChatGPT Plus代充”](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E4%BB%A3%E5%85%85%E5%80%BC-2.jpg)
 
 ### 第三步：选择ChatGPT代充时长，输入优惠码“ANYOFAI”，并完成支付。
 
 注意：使用邀请码“ANYOFAI”可享受9折优惠。
 
+![国内ChatGPT Plus代充值第三步：选择ChatGPT代充时长，输入优惠码“ANYOFAI”，并完成支付](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E4%BB%A3%E5%85%85%E5%80%BC-3.jpg)
+
 ### 第四步：向星际放映厅提交你的ChatGPT帐号和密码。
+
+![国内ChatGPT Plus代充值第四步：向星际放映厅提交你的ChatGPT帐号和密码](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E4%BB%A3%E5%85%85%E5%80%BC-4.jpg)
 
 ### 第五步：等待星际放映厅发送激活短信。
 
 备注：星际放映厅通常会在3小时内完成ChatGPT Plus充值。
+
+![国内ChatGPT Plus代充值第五步：等待星际放映厅发送激活短信](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E4%BB%A3%E5%85%85%E5%80%BC-5.jpg)
 
 小结，当你收到来自星际放映厅的激活短信之后，就表示你的ChatGPT Plus充值已完成。接下来，只需使用你的ChatGPT帐号和密码登录，即可正式开始使用ChatGPT Plus的全部功能和服务。不过，我们依然要提醒大家，如果你在工作中需要频繁地使用ChatGPT Plus，那么最好通过Wildcard虚拟信用卡购买一个独属于自己的ChatGPT Plus账号，以更好地保障账号安全和隐私。
 
