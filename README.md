@@ -130,19 +130,34 @@
 
 * 银河录像局官网：<a href="https://nf.video/BTgSc">https://nf.video/</a>
 
+![国内购买ChatGPT Plus合租帐号第一步：打开银河录像局官网并完成帐号注册](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E5%90%88%E7%A7%9F-1.jpg)
+
 ### 第二步：点击首页中的“AI服务”选项，然后选择“GPT Plus”。
+
+![中国购买ChatGPT Plus合租帐号第二步：点击首页中的“AI服务”选项，然后选择“GPT Plus”](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E5%90%88%E7%A7%9F-2.jpg)
 
 ### 第三步：选择适合自己的付费套餐。
 
 注意：“国内镜像直连”提供1个月、3个月和1年套餐。而1个月套餐中的基础账号允许用户在6小时内与ChatGPT Plus对话20次；标准帐号允许用户在6个小时内与ChatGPT Plus对话50次；专业帐号允许用户在3个小时内与ChatGPT Plus对话60次。
 
+![国内购买ChatGPT Plus共享帐号第三步：选择适合自己的付费套餐](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E5%90%88%E7%A7%9F-3.jpg)
+
 ### 第四步：输入优惠码“ANYOFAI”并完成支付。
+
+![中国购买ChatGPT Plus共享帐号第四步：输入优惠码“ANYOFAI”并完成支付](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E5%90%88%E7%A7%9F-4.jpg)
 
 ### 第五步：点击“查看车票信息”和“查看车队”。
 
+![支付宝购买ChatGPT Plus合租帐号第五步：点击“查看车票信息”](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E5%90%88%E7%A7%9F-5.jpg)
+![国内支付宝购买ChatGPT Plus合租帐号第五步：点击“查看车队”](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E5%90%88%E7%A7%9F-5-1.jpg)
+
 ### 第六步：选择一个“车队”并点击“发起对话”。
 
+![支付宝购买ChatGPT Plus共享帐号第六步：选择一个“车队”并点击“发起对话”](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E5%90%88%E7%A7%9F-6.jpg)
+
 ### 第七步：开始使用ChatGPT Plus。
+
+![支付宝购买ChatGPT合租共享帐号第七步：开始使用ChatGPT Plus](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E5%90%88%E7%A7%9F-7.jpg)
 
 OK，截止到目前为止，你已经成功获取了一个ChatGPT Plus合租共享帐号，接下来就可以正式体验ChatGPT Plus的强大了。此外，银河录像局不仅提供“国内镜像直连”服务，还提供“共享会员”和“独立会员”服务。其中，“国内镜像直连”无需翻墙即可使用ChatGPT Plus，而“共享会员”和“独立会员”则需要翻墙之后才可以使用ChatGPT Plus。
 
