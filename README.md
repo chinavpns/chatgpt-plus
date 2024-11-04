@@ -128,7 +128,7 @@
 
 ### 第一步：打开银河录像局官网并完成帐号注册。
 
-* 银河录像局官网：<a href="https://nf.video/BTgSc">https://nf.video/</a>
+* 银河录像局官网：<a href="https://nf.video/BTgSc">https://nf.video/BTgSc</a>
 
 ![国内购买ChatGPT Plus合租帐号第一步：打开银河录像局官网并完成帐号注册](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E5%90%88%E7%A7%9F-1.jpg)
 
@@ -173,7 +173,7 @@ OK，截止到目前为止，你已经成功获取了一个ChatGPT Plus合租共
 
 ### 第一步：打开星际放映厅官网，并使用手机号登录。
 
-* 星际放映厅官网：<a href="https://naifeistation.com?invite=3235">https://naifeistation.com</a>
+* 星际放映厅官网：<a href="https://naifeistation.com?invite=3235">https://naifeistation.com?invite=3235</a>
 
 ![国内ChatGPT Plus代充值第一步：打开星际放映厅官网，并使用手机号登录](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E4%BB%A3%E5%85%85%E5%80%BC-1.jpg)
 
