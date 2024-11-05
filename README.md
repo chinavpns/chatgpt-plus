@@ -1,4 +1,4 @@
-# 中国ChatGPT Plus购买教程：国内支付宝开通ChatGPT Plus会员，ChatGPT Plus帐号合租，ChatGPT Plus代充值
+# 中国ChatGPT Plus购买教程：包括使用国内支付宝开通ChatGPT Plus账号、通过专业平台购买ChatGPT Plus合租共享账号，以及通过专业代充值平台完成ChatGPT Plus充值
 
 <p align="center">最近更新于：2024年11月4日</p>
 
