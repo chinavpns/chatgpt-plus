@@ -20,6 +20,15 @@
 
 </blockquote>
 
+<blockquote>
+<h2 id="本文内容导航">本文内容导航</h2>
+<h3 id="1-2024年在中国注册chatgpt帐号流程">1. <a href="#2024年在中国注册chatgpt帐号流程">2024年在中国注册ChatGPT帐号流程</a></h3>
+<h3 id="2-chatgpt-plus购买方法一国内支付宝开通chatgpt-plus帐号">2. <a href="#chatgpt-plus购买方法一国内支付宝开通chatgpt-plus帐号">ChatGPT Plus购买方法一：国内支付宝开通ChatGPT Plus帐号</a></h3>
+<h3 id="3-chatgpt-plus购买方法二购买chatgpt-plus合租共享帐号">3. <a href="#chatgpt-plus购买方法二购买chatgpt-plus合租共享帐号">ChatGPT Plus购买方法二：购买ChatGPT Plus合租共享帐号</a></h3>
+<h3 id="4-chatgpt-plus购买方法三使用chatgpt-plus代充值服务">4. <a href="#chatgpt-plus购买方法三使用chatgpt-plus代充值服务">ChatGPT Plus购买方法三：使用ChatGPT Plus代充值服务</a></h3>
+<h3 id="5-国内chatgpt-plus购买相关的其他文章">5. <a href="#国内chatgpt-plus购买相关的其他文章">国内ChatGPT Plus购买相关的其他文章</a></h3>
+</blockquote>
+
 ## 2024年在中国注册ChatGPT帐号流程
 
 正如前文提到的，在中国购买ChatGPT Plus账号有三种方法。除了直接使用ChatGPT Plus合租共享账号外，其他两种方法都要求用户已经注册好了ChatGPT账号。因此，在购买ChatGPT Plus之前，请确保你已完成ChatGPT账号的注册。
