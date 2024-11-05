@@ -1,6 +1,6 @@
 # 中国ChatGPT Plus购买教程：包括使用国内支付宝开通ChatGPT Plus账号、通过专业平台购买ChatGPT Plus合租共享账号、通过专业代充值平台完成ChatGPT Plus充值
 
-<p align="center">最近更新于：2024年11月4日</p>
+<p align="center">最近更新于：2024年11月5日</p>
 
 ![中国ChatGPT Plus购买教程：包括使用国内支付宝开通ChatGPT Plus账号、通过专业平台购买ChatGPT Plus合租共享账号、通过专业代充值平台完成ChatGPT Plus充值](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E8%B4%AD%E4%B9%B0.png)
 
@@ -56,7 +56,7 @@
 
 小结：当完成以上步骤之后，你的ChatGPT账号注册就算完成了。接下来，你只需使用账号和密码登录即可开始使用ChatGPT。不过，ChatGPT免费账号的功能有限，仅能回答一些简单问题。如果想充分体验ChatGPT的强大功能，使其成为你工作和生活中的得力助手，则需购买ChatGPT Plus账号。
 
-## ChatGPT Plus购买方式一：国内支付宝开通ChatGPT Plus帐号
+## ChatGPT Plus购买方法一：国内支付宝开通ChatGPT Plus帐号
 
 如果你在工作和生活中高度依赖ChatGPT，或者希望拥有独立的ChatGPT Plus账号，那么我们推荐使用“国内支付宝开通ChatGPT Plus账号”这一方式。接下来，我们将手把手地教大家如何快速获取一张<a href="https://bewildcard.com/i/ANYOFAI">Wildcard虚拟信用卡</a>、并使用支付宝为其充值，然后再使用这张虚拟信用卡开通ChatGPT Plus账号。
 
@@ -120,7 +120,7 @@
 
 * Wildcard官网：<a href="https://bewildcard.com/i/ANYOFAI">https://bewildcard.com/i/ANYOFAI</a>
 
-## ChatGPT Plus购买方式二：购买ChatGPT Plus合租共享帐号
+## ChatGPT Plus购买方法二：购买ChatGPT Plus合租共享帐号
 
 国内有很多用户由于无法解决科学上网问题，或者觉得每月20美元的ChatGPT Plus订阅费用太贵，又或者仅想简单体验一下ChatGPT Plus的功能而不愿花费过多时间订阅，所以就想与其他用户共享合租ChatGPT Plus账号。这种方式不仅免去了翻墙的麻烦，还可以有效地节省费用。
 
@@ -165,7 +165,7 @@ OK，截止到目前为止，你已经成功获取了一个ChatGPT Plus合租共
 
 小提示：尽管银河录像局的服务非常的安全可靠，但合租ChatGPT Plus本质上并不完全安全，因为多个用户共享同一个帐号，其他用人可以看到你的使用历史数据。所以，如果你在工作中需要频繁使用ChatGPT Plus，或者对隐私安全有较高要求，那么我们强烈建议你<a href="https://github.com/chinavpns/chatgpt-plus?tab=readme-ov-file#chatgpt-plus%E8%B4%AD%E4%B9%B0%E6%96%B9%E5%BC%8F%E4%B8%80%E5%9B%BD%E5%86%85%E6%94%AF%E4%BB%98%E5%AE%9D%E5%BC%80%E9%80%9Achatgpt-plus%E5%B8%90%E5%8F%B7">使用Wildcard虚拟信用卡来购买一个独立的ChatGPT Plus帐号</a>。
 
-## ChatGPT Plus购买方式三：使用ChatGPT Plus代充值服务
+## ChatGPT Plus购买方法三：使用ChatGPT Plus代充值服务
 
 如果你觉得ChatGPT Plus合租帐号不够安全，或者不想花费太多时间去申请Wildcard虚拟信用卡，但又希望拥有一个专属于自己的ChatGPT Plus帐号，那么可以尝试使用ChatGPT Plus代充值服务。所谓的ChatGPT Plus代充值，即你将自己的ChatGPT帐号和密码提供给代充值服务商，然后由服务商代为完成ChatGPT Plus充值，之后你就可以登录账号并享受ChatGPT Plus会员服务。
 
