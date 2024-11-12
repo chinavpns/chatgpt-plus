@@ -178,7 +178,7 @@
 
 OK，截止到目前为止，你已经成功获取了一个ChatGPT Plus合租共享帐号，接下来就可以正式体验ChatGPT Plus的强大了。此外，银河录像局不仅提供“国内镜像直连”服务，还提供“共享会员”和“独立会员”服务。其中，“国内镜像直连”无需翻墙即可使用ChatGPT Plus，而“共享会员”和“独立会员”则需要翻墙之后才可以使用ChatGPT Plus。
 
-小提示：尽管银河录像局的服务非常的安全可靠，但合租ChatGPT Plus本质上并不完全安全，因为多个用户共享同一个帐号，其他用人可以看到你的使用历史数据。所以，如果你在工作中需要频繁使用ChatGPT Plus，或者对隐私安全有较高要求，那么我们强烈建议你<a href="https://github.com/chinavpns/chatgpt-plus?tab=readme-ov-file#chatgpt-plus%E8%B4%AD%E4%B9%B0%E6%96%B9%E5%BC%8F%E4%B8%80%E5%9B%BD%E5%86%85%E6%94%AF%E4%BB%98%E5%AE%9D%E5%BC%80%E9%80%9Achatgpt-plus%E5%B8%90%E5%8F%B7">使用Wildcard虚拟信用卡来购买一个独立的ChatGPT Plus帐号</a>。
+小提示：尽管银河录像局的服务非常的安全可靠，但合租ChatGPT Plus本质上并不完全安全，因为多个用户共享同一个帐号，其他用人可以看到你的使用历史数据。所以，如果你在工作中需要频繁使用ChatGPT Plus，或者对隐私安全有较高要求，那么我们强烈建议你<a href="https://github.com/chinavpns/chatgpt-plus?tab=readme-ov-file#chatgpt-plus%E8%B4%AD%E4%B9%B0%E6%96%B9%E6%B3%95%E4%B8%80%E5%9B%BD%E5%86%85%E6%94%AF%E4%BB%98%E5%AE%9D%E5%BC%80%E9%80%9Achatgpt-plus%E5%B8%90%E5%8F%B7">使用Wildcard虚拟信用卡来购买一个独立的ChatGPT Plus帐号</a>。
 
 ## ChatGPT Plus购买方法三：使用ChatGPT Plus代充值服务
 
@@ -214,7 +214,7 @@ OK，截止到目前为止，你已经成功获取了一个ChatGPT Plus合租共
 
 ![国内ChatGPT Plus代充值第五步：等待星际放映厅发送激活短信](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E4%BB%A3%E5%85%85%E5%80%BC-5.jpg)
 
-小结，当你收到来自星际放映厅的激活短信之后，就表示你的ChatGPT Plus充值已完成。接下来，只需使用你的ChatGPT帐号和密码登录，即可正式开始使用ChatGPT Plus的全部功能和服务。不过，我们依然要提醒大家，如果你在工作中需要频繁地使用ChatGPT Plus，那么最好<a href="https://github.com/chinavpns/chatgpt-plus?tab=readme-ov-file#chatgpt-plus%E8%B4%AD%E4%B9%B0%E6%96%B9%E5%BC%8F%E4%B8%80%E5%9B%BD%E5%86%85%E6%94%AF%E4%BB%98%E5%AE%9D%E5%BC%80%E9%80%9Achatgpt-plus%E5%B8%90%E5%8F%B7">通过Wildcard虚拟信用卡购买一个独属于自己的ChatGPT Plus账号</a>，以更好地保障账号安全和隐私。
+小结，当你收到来自星际放映厅的激活短信之后，就表示你的ChatGPT Plus充值已完成。接下来，只需使用你的ChatGPT帐号和密码登录，即可正式开始使用ChatGPT Plus的全部功能和服务。不过，我们依然要提醒大家，如果你在工作中需要频繁地使用ChatGPT Plus，那么最好<a href="https://github.com/chinavpns/chatgpt-plus?tab=readme-ov-file#chatgpt-plus%E8%B4%AD%E4%B9%B0%E6%96%B9%E6%B3%95%E4%B8%80%E5%9B%BD%E5%86%85%E6%94%AF%E4%BB%98%E5%AE%9D%E5%BC%80%E9%80%9Achatgpt-plus%E5%B8%90%E5%8F%B7">通过Wildcard虚拟信用卡购买一个独属于自己的ChatGPT Plus账号</a>，以更好地保障账号安全和隐私。
 
 ## 国内ChatGPT Plus购买相关的其他文章：
 
