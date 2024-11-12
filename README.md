@@ -47,7 +47,7 @@
 
 ### 第二步：打开ChatGPT官网，点击右上角的“创建账号”按钮。
 
-* ChatGPT官网：https://chatgpt.com/ 
+* ChatGPT官网：chatgpt.com
 
 ![国内ChatGPT注册第二步：打开ChatGPT官网，点击右上角的“创建账号”按钮](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C-2.jpg)
 
