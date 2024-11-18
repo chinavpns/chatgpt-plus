@@ -1,6 +1,6 @@
 # 中国ChatGPT Plus购买教程：包括使用国内支付宝开通ChatGPT Plus账号、通过专业平台购买ChatGPT Plus合租共享账号、通过专业代充值平台完成ChatGPT Plus充值
 
-<p align="center">最近更新于：2024年11月12日</p>
+<p align="center">最近更新于：2024年11月18日</p>
 
 ![中国ChatGPT Plus购买教程：包括使用国内支付宝开通ChatGPT Plus账号、通过专业平台购买ChatGPT Plus合租共享账号、通过专业代充值平台完成ChatGPT Plus充值](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E8%B4%AD%E4%B9%B0.png)
 
@@ -10,7 +10,7 @@
 
 <blockquote>
 
-* **<a href="https://wallvpn.com/go/expressvpn/" rel="nofollow">ExpressVPN（首选）</a>**：全球最顶级的VPN品牌，在中国翻墙非常稳定，**全年可用率高达98%以上**；军事级别的加密，**连接速度在行业内是最快**，在105个国家和地区部署了3000多台服务器，可轻松解锁Netflix、Youtube、TikTok、Telegram、ChatGPT、Claude、Midjourney等网站，注册ChatGPT帐号和订阅ChatGPT Plus会员也能轻松胜任；无流量和带宽限制，支持BT种子下载，完美兼容各种型号的手机、电脑、平板、路由器、游戏机、智能电视等设备，允许8台设备同时登录使用；价格公道，每月费用为6.67美金，**现在购买12个月套餐还额外赠送3个月**；提供24小时在线客服和为期30天退款保证，**若不满意可随时申请全额退款**。
+* **<a href="https://wallvpn.com/go/expressvpn/" rel="nofollow">ExpressVPN（首选）</a>**：全球最顶级的VPN品牌，在中国翻墙非常稳定，**全年可用率高达98%以上**；军事级别的加密，**连接速度在行业内是最快**，在105个国家和地区部署了3000多台服务器，可轻松解锁Netflix、Youtube、TikTok、Telegram、ChatGPT、Claude、Midjourney等网站，注册ChatGPT帐号和订阅ChatGPT Plus会员也能轻松胜任；无流量和带宽限制，支持BT种子下载，完美兼容各种型号的手机、电脑、平板、路由器、游戏机、智能电视等设备，允许8台设备同时登录使用；**黑五限时特惠，购买两年套餐，额外赠送6个月，每月仅需4.99美元，购买一年套餐，额外赠送4个月，每月仅需6.25美元**；提供24小时在线客服和为期30天退款保证，**若不满意可随时申请全额退款**。
 
 * **<a href="https://wallvpn.com/go/strong-vpn/" rel="nofollow">StrongVPN（备选）</a>**：老牌VPN软件，在中国翻墙也比较稳定，全年可用率在90%左右；虽然连接速度略逊色于ExpressVPN，但也能满足用户的基本需求（例如流畅观看1080P高清视频）；在30多个国家和地区部署了950台服务器，包括大陆周边的日本、台湾、新加坡等地区；提供专用APP客户端，适用于Windows、MacOS、Android、iOS、Linux等设备，并支持最多12台设备同时登录使用；价格相对较便宜，**每月仅需3.97美金**，支持银联卡、**支付宝**和Paypla等付款方式，提供24小时在线客服和30天退款保证。
 
