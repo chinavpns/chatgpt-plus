@@ -236,4 +236,6 @@ OK，截止到目前为止，你已经成功获取了一个ChatGPT Plus合租共
 
 * <a href=https://github.com/chinavpns/freevpn.github.io>免费VPN推荐</a>：2024年最好用的免费VPN推荐！本文将会给大家推荐几款在中国国内可用的免费VPN加速器（包含大陆永久免费VPN）和提供30天免费试用的顶级付费VPN软件！
 
+* <a href="https://github.com/chinavpns/expressvpn">ExpressVPN中国评测</a>：ExpressVPN怎么样？ExpressVPN国内能用吗？ExpressVPN在中国稳定吗？ExpressVPN连不上网怎么办？ExpressVPN如何申请退款？接下来，本文将从不同角度对ExpressVPN进行全面解析，深入解答这些常见问题，帮助你更清楚地了解这款VPN工具的实际表现！
+
 * <a href=https://github.com/chinavpns/telegram>Telegram注册</a>：2024年国内手机号注册Telegram收不到验证码怎么办？本文还将会详细介绍如何下载、安装、注册和使用Telegram电报，并会为大家提供在中国使用Telegram电报的一些实用建议！
