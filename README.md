@@ -1,6 +1,6 @@
 # 中国ChatGPT Plus购买教程：包括使用国内支付宝开通ChatGPT Plus账号、通过专业平台购买ChatGPT Plus合租共享账号、通过专业代充值平台完成ChatGPT Plus充值
 
-<p align="center">最近更新于：2024年11月18日</p>
+<p align="center">最近更新于：2024年12月30日</p>
 
 ![中国ChatGPT Plus购买教程：包括使用国内支付宝开通ChatGPT Plus账号、通过专业平台购买ChatGPT Plus合租共享账号、通过专业代充值平台完成ChatGPT Plus充值](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E8%B4%AD%E4%B9%B0.png)
 
@@ -186,11 +186,11 @@ OK，截止到目前为止，你已经成功获取了一个ChatGPT Plus合租共
 
 虽然ChatGPT Plus代充值看似比较省事儿，无需申请和使用Wildcard虚拟信用卡来为ChatGPT Plus充值，比较适合比较“懒”的用户。但ChatGPT Plus代充值却存在两个比较明显的弊端。首先，你需要将ChatGPT帐号密码提供给代充值服务商，这会增加帐号的安全风险。其次，ChatGPT Plus代充值的费用较高，除了每月20美元的ChatGPT Plus订阅费用外，服务商还会收取不小的手续费。所以，与使用Wildcard虚拟信用卡自行开通ChatGPT Plus相比，ChatGPT Plus代充值服务基本没有太大的优势可言。因此，我们建议大家尽量自行开通ChatGPT Plus会员，避免使用ChatGPT Plus代充值服务，以保障账号安全和降低成本。
 
-如果经过综合对比和考虑后，你依然想寻找ChatGPT Plus代充值服务，那么可以优先考虑：<a href="https://www.naifeistation.com?invite=3235">星际放映厅</a>。星际放映厅是一家专门提供ChatGPT Plus代充值服务的平台，安全性较高，使用方便，充值速度快。以下是使用星际放映厅充值ChatGPT Plus的具体操作步骤：
+如果经过综合对比和考虑后，你依然想寻找ChatGPT Plus代充值服务，那么可以优先考虑：<a href="https://www.naifeistation.com?invite=3wLPME">星际放映厅</a>。星际放映厅是一家专门提供ChatGPT Plus代充值服务的平台，安全性较高，使用方便，充值速度快。以下是使用星际放映厅充值ChatGPT Plus的具体操作步骤：
 
 ### 第一步：打开星际放映厅官网，并使用手机号登录。
 
-* 星际放映厅官网：<a href="https://www.naifeistation.com?invite=3235">https://www.naifeistation.com?invite=3235</a>
+* 星际放映厅官网：<a href="https://www.naifeistation.com?invite=3wLPME">https://www.naifeistation.com?invite=3wLPME</a>
 
 ![国内ChatGPT Plus代充值第一步：打开星际放映厅官网，并使用手机号登录](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E4%BB%A3%E5%85%85%E5%80%BC-1.jpg)
 
