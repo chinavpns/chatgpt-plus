@@ -260,9 +260,9 @@ ChatGPT Plus是OpenAI推出的一项高级订阅服务，其支付方式一直�
 
 * 方式三：通过苹果App Store来订阅ChatGPT Plus
 
-对于iOS用户，ChatGPT Plus的订阅也可以通过苹果App Store完成支付。用户可以在iPhone或iPad的App Store中使用Apple ID订阅ChatGPT Plus。这种方式的优点在于，用户可以直接使用Apple账户绑定的支付方式，包括国际信用卡、借记卡、礼品卡或账户余额，支付过程相对便捷。
+iOS用户可以选择通过苹果App Store完成ChatGPT Plus的订阅。用户只需在iPhone或iPad的App Store中使用Apple ID即可完成操作。这种方式的优势在于，用户可以直接使用Apple账户绑定的多种支付方式，包括国际信用卡、借记卡、礼品卡余额或账户余额，支付过程较为便捷。
 
-需要注意的是，目前通过App Store订阅ChatGPT Plus的成功率极低。许多用户反馈在支付过程中遇到失败的情况，尤其是在中国大陆地区。因此，我们不建议中国大陆地区的用户尝试此方式。
+需要注意的是，目前通过App Store订阅ChatGPT Plus的成功率较低。许多用户反馈在支付过程中容易遇到失败，尤其是在中国大陆地区。因此，我们不建议中国大陆地区的用户尝试此方式。
 
 * 方式四：使用PayPal来开通ChatGPT Plus会员
 
