@@ -135,7 +135,7 @@
 
 * Wildcard官网：<a href="https://bewildcard.com/i/ANYOFAI">https://bewildcard.com/i/ANYOFAI</a>
 
-## ChatGPT Plus购买方法二：购买ChatGPT Plus合租共享帐号
+## ChatGPT Plus购买方法二：拼车合租ChatGPT Plus帐号
 
 国内有很多用户由于无法解决科学上网问题，或者觉得每月20美元的ChatGPT Plus订阅费用太贵，又或者仅想简单体验一下ChatGPT Plus的功能而不愿花费过多时间订阅，所以就想与其他用户共享合租ChatGPT Plus账号。这种方式不仅免去了翻墙的麻烦，还可以有效地节省费用。
 
@@ -270,21 +270,23 @@ PayPal是OpenAI支持的另一种支付方式，用户可以通过绑定的PayPa
 
 总的来说，如果你拥有国外信用卡或PayPal账户，那么可以通过这两种方式为ChatGPT Plus充值。对于绝大多数中国用户而言，使用WildCard虚拟信用卡是当前最简单、最便捷的选择。
 
+<p align="center"><a href="https://github.com/chinavpns/chatgpt-plus?tab=readme-ov-file#chatgpt-plus%E8%B4%AD%E4%B9%B0%E6%96%B9%E6%B3%95%E4%B8%80%E5%9B%BD%E5%86%85%E6%94%AF%E4%BB%98%E5%AE%9D%E5%BC%80%E9%80%9Achatgpt-plus%E5%B8%90%E5%8F%B7">点击查看Wildcard充值ChatGPT Plus操作步骤</a></p>
+
 ## 国内订阅充值ChatGPT Plus时信用卡被拒怎么办？
 
 在中国大陆购买ChatGPT Plus时，信用卡支付被拒绝是常见问题，常见提示包括“unable to authorize（未能验证您的支付方式）”或“card has been declined（银行卡被拒绝）”。造成这一问题的主要原因在于，OpenAI目前不支持中国大陆和香港地区的信用卡支付。如果你身处中国大陆，并且想要开通ChatGPT Plus账号，可尝试以下几种替代方式：
 
 * 方法一：使用WildCard虚拟信用卡
 
-中国用户可以通过WildCard虚拟信用卡充值ChatGPT Plus。这种方式允许用户在没有实体国际信用卡的情况下完成跨境支付，操作便捷且成功率较高，非常适合没有国际信用卡的用户。
+中国用户可以通过<a href="https://bewildcard.com/i/ANYOFAI">WildCard虚拟信用卡</a>充值ChatGPT Plus。这种方式允许用户在没有实体国际信用卡的情况下完成跨境支付，操作便捷且成功率较高，非常适合没有国际信用卡的用户。
 
 * 方法二：ChatGPT Plus代充值服务
 
-国内有不少ChatGPT Plus代充值服务商，例如我们在前文提到的“星际放映厅”。用户可以通过这些服务商完成订阅。然而，在选择此类服务时应特别谨慎，确保服务商的合法性和安全性，避免遭遇诈骗或信息泄露的风险。
+国内有不少ChatGPT Plus代充值服务商，例如我们在前文提到的“<a href="https://www.naifeistation.com?invite=3wLPME">星际放映厅</a>”。用户可以通过这些服务商完成订阅。然而，在选择此类服务时应特别谨慎，确保服务商的合法性和安全性，避免遭遇诈骗或信息泄露的风险。
 
 * 方法三：ChatGPT Plus拼车合租
 
-如果你对ChatGPT Plus的使用频率不高，且不愿意花费太多时间和精力去开通ChatGPT Plus，那么可以考虑选择拼车合租的方式。例如，“银河录像局”提供的拼车服务无需科学上网，也无需国外信用卡，价格相对便宜，是一种省心的选择。
+如果你对ChatGPT Plus的使用频率不高，且不愿意花费太多时间和精力去开通ChatGPT Plus，那么可以考虑选择拼车合租的方式。例如，“<a href="https://nf.video/BTgSc">银河录像局</a>”提供的拼车服务无需科学上网，也无需国外信用卡，价格相对便宜，是一种省心的选择。
 
 总而言之，面对国内购买充值ChatGPT Plus时信用卡被拒的情况，中国用户可以考虑使用WildCard虚拟信用卡或代充值服务来完成订阅，也可以尝试通过ChatGPT Plus拼车合租的方式，找到更适合自己的解决方案。
 
@@ -317,6 +319,8 @@ WildCard在多个场景下为用户提供了便利。它可以用于支付和订
 
 WildCard为用户提供了一种灵活、高效的支付方式，尤其是在国内缺乏国际信用卡的情况下，解决了用户在国际支付中遇到的难题。它不仅应用广泛，而且操作简便，是一个兼具实用性和可靠性的工具。通过WildCard，用户能够轻松完成国际支付需求，无论是订阅数字服务还是进行其他跨境支付，都可以依赖这一工具。
 
+<p align="center"><a href="https://bewildcard.com/i/ANYOFAI">立即获取WildCard虚拟信用卡</a></p>
+
 ### WildCard是怎么收费的？
 
 WildCard虚拟信用卡的收费结构清晰，涵盖开卡费用、充值手续费、消费手续费、提现手续费以及交易退款手续费。以下是针对每项收费的详细说明：
@@ -343,6 +347,8 @@ WildCard支持用户将退款返还到虚拟卡上。如果与商家协商退款
 
 小结，通过以上收费说明可以看出，WildCard的收费模式透明合理，特别是对经常使用美元支付的用户极为友好。其便捷的充值、提现和支付功能，为用户提供了更多的灵活性和便利。无论是订阅数字服务、进行跨境消费，还是提现余额，WildCard都能够高效满足用户的支付需求，成为解决国际支付问题的重要工具。
 
+<p align="center"><a href="https://bewildcard.com/i/ANYOFAI">立即获取WildCard虚拟信用卡</a></p>
+
 ### WildCard的核心功能有哪些？
 
 WildCard是一个专注于虚拟信用卡及相关增值服务的平台，旨在帮助用户解决国际支付难题，同时为跨境数字服务提供一站式解决方案。以下是WildCard的四大核心功能：
@@ -366,6 +372,8 @@ WildCard提供的一键升级功能，帮助用户轻松订阅多种数字服务
 WildCard还提供免费的海外手机号服务，帮助用户轻松完成海外平台的注册和验证。用户可以使用生成的海外手机号完成Claude等支持手机号验证的平台的账号注册，每个用户可免费使用3次。这项服务特别适合有短期注册需求的用户，例如需要验证账号或绑定特定平台。生成的手机号可以直接用于接收验证码，操作简单，使用便捷，为用户在跨境场景中提供了高效的解决方案。
 
 小结，WildCard通过虚拟信用卡服务、一键升级服务、2233.ai随心用，以及海外手机号和邮箱服务，为用户打造了一个集支付、订阅管理和技术服务于一体的综合平台。无论是跨境支付、数字服务订阅，还是AI模型的灵活使用，WildCard都以其多样化的功能和便捷的体验，为用户提供了高效的解决方案。
+
+<p align="center"><a href="https://bewildcard.com/i/ANYOFAI">立即获取WildCard虚拟信用卡</a></p>
 
 ## 国内ChatGPT Plus购买相关的其他文章：
 
