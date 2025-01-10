@@ -30,7 +30,7 @@
 <h3 id="2-chatgpt-plus购买方法一国内支付宝开通chatgpt-plus帐号">2. <a href="#chatgpt-plus购买方法一国内支付宝开通chatgpt-plus帐号">ChatGPT Plus购买方法一：国内支付宝开通ChatGPT Plus帐号</a></h3>
 <h3 id="3-chatgpt-plus购买方法二购买chatgpt-plus合租共享帐号">3. <a href="#chatgpt-plus购买方法二购买chatgpt-plus合租共享帐号">ChatGPT Plus购买方法二：购买ChatGPT Plus合租共享帐号</a></h3>
 <h3 id="4-chatgpt-plus购买方法三使用chatgpt-plus代充值服务">4. <a href="#chatgpt-plus购买方法三使用chatgpt-plus代充值服务">ChatGPT Plus购买方法三：使用ChatGPT Plus代充值服务</a></h3>
-<h3 id="5-wildcard虚拟信用卡详解">5. <a href="#wildcard虚拟信用卡详解">WildCard虚拟信用卡详解</a></h3>
+<h3 id="5-wildcard虚拟信用卡详解">5. <a href="#wildcard虚拟信用卡详解">WildCard虚拟信用卡平台详解【最新】</a></h3>
 </blockquote>
 
 本文将会详细地向大家介绍三种主流的订阅ChatGPT Plus会员的方式，并逐一说明每种方式的操作步骤、优劣势及适用人群，方便大家根据自身情况和需求选择最适合的购买方式。无论你是想获取独立账号、还是想购买共享账号，又或者是想寻找代充值服务，本文都将提供清晰的指导。
