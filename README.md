@@ -41,8 +41,6 @@
 
 ### 第一步：打开ExpressVPN客户端，选择一个海外节点并连接。
 
-![打开ExpressVPN客户端，选择一个海外节点并连接](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C--1.jpg)
-
 注意：由于OpenAI尚未向中国用户开放，且香港属于中国的一部分，因此香港IP地址也无法用于注册ChatGPT帐号。我们建议大家优先选择ExpressVPN位于美国、新加坡等地区的服务器节点。
 
 ![国内ChatGPT注册第一步：打开ExpressVPN客户端，选择一个海外节点并连接](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%E6%B3%A8%E5%86%8C--1.jpg)
