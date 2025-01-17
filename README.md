@@ -28,7 +28,7 @@
 <h2 id="本文内容导航">本文内容导航</h2>
 <h3 id="1-2025年在中国注册chatgpt帐号流程">1. <a href="#2025年在中国注册chatgpt帐号流程">2025年在中国注册ChatGPT帐号流程</a></h3>
 <h3 id="2-chatgpt-plus购买方法一国内支付宝开通chatgpt-plus帐号">2. <a href="#chatgpt-plus购买方法一国内支付宝开通chatgpt-plus帐号">ChatGPT Plus购买方法一：国内支付宝开通ChatGPT Plus帐号</a></h3>
-<h3 id="3-chatgpt-plus购买方法二购买chatgpt-plus合租共享帐号">3. <a href="#chatgpt-plus购买方法二购买chatgpt-plus合租共享帐号">ChatGPT Plus购买方法二：购买ChatGPT Plus合租共享帐号</a></h3>
+<h3 id="3-chatgpt-plus购买方法二拼车合租chatgpt-plus帐号">3. <a href="#chatgpt-plus购买方法二拼车合租chatgpt-plus帐号">ChatGPT Plus购买方法二：拼车合租ChatGPT Plus帐号</a></h3>
 <h3 id="4-chatgpt-plus购买方法三使用chatgpt-plus代充值服务">4. <a href="#chatgpt-plus购买方法三使用chatgpt-plus代充值服务">ChatGPT Plus购买方法三：使用ChatGPT Plus代充值服务</a></h3>
 <h3 id="5-wildcard虚拟信用卡平台详解">5. <a href="#wildcard虚拟信用卡平台详解">WildCard虚拟信用卡平台详解【最新】</a></h3>
 </blockquote>
