@@ -79,41 +79,41 @@
 
 小提示：此方法我们前几天刚测试过，绝对真实有效，而且ChatGPT Plus开通成功率为100%，整个流程也只需十分钟。
 
-### 第一步：打开Wildcard官网并完成帐号注册。
+### 第一步：打开“野卡YEKA”官网并使用国内手机号完成帐号注册。
 
-* Wildcard官网：<a href="https://bewildcard.com/i/ANYOFAI">https://bewildcard.com/i/ANYOFAI</a>
+* 野卡YEKA官网：<a href="https://yeka.ai/i/ANYOFAI">https://yeka.ai/i/ANYOFAI</a>
 
-![国内ChatGPT Plus开通第一步：打开Wildcard官网并完成帐号注册](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E5%BC%80%E9%80%9A-1.jpg)
+![国内ChatGPT Plus开通第一步：打开“野卡YEKA”官网并使用国内手机号完成帐号注册](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT-Plus-Yeka-1.png)
 
-### 第二步：进入Wildcard后台，点击“去开通”。
+### 第二步：点击左侧的“立即开通”按钮。
 
-![国内ChatGPT Plus订阅第二步：进入Wildcard后台，点击“去开通”](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E5%BC%80%E9%80%9A-2.jpg)
+![国内ChatGPT Plus订阅第二步：点击左侧的“立即开通”按钮](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT-Plus-Yeka-2.png)
 
-### 第三步：输入邀请码“ANYOFAI”，并支付开卡费。
+### 第三步：点击“开通会员”按钮。
 
-注意：**使用邀请码“ANYOFAI”可立减1美金**。此外，Wildcard虚拟信用卡的开卡费仅收取一次，后续就是充值多少实到账多少，无其他费用了。在未来的2至3年内，你不仅可以使用Wildcard虚拟信用卡来支付ChatGPT Plus订阅费用，还可以用它来支付OpenAI API、Claude Pro、MidJourney、Google Gemini、Apple Store、Google Play、Facebook、Twitter、Youtube、Onlyfans、Spotify、Github、Telegram等平台的费用。
+![国内ChatGPT Plus订阅第三步：点击“开通会员”按钮](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT-Plus-Yeka-3.png)
 
-![国内ChatGPT Plus购买第三步：输入邀请码“ANYOFAI”，并支付开卡费](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E5%BC%80%E9%80%9A-3.jpg)
+### 第四步：选择服务年限，输入邀请码“ANYOFAI”，并支付开卡费。
 
-### 第四步：完善个人基本信息。
+注意：**使用邀请码“ANYOFAI”可立减1美金**。此外，野卡YEKA虚拟信用卡的开卡费仅收取一次，后续就是充值多少实到账多少，无其他费用了。在未来的1至2年内，你不仅可以使用野卡虚拟信用卡来支付ChatGPT Plus订阅费用，还可以用它来支付OpenAI API、Claude Pro、MidJourney、Google Gemini、Apple Store、Google Play、Facebook、Twitter、Youtube、Onlyfans、Spotify、Github、Telegram等平台的费用。
 
-注意：填写完个人基本信息后，Wildcard可能还会引导你进行更深入的实名认证。如果你不想提供更多隐私信息，可以在填写基本信息后直接跳至“步骤五”继续操作。
+![国内ChatGPT Plus购买第四步：选择服务年限，输入邀请码“ANYOFAI”，并支付开卡费](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT-Plus-Yeka-4.png)
 
-![国内ChatGPT Plus升级第四步：完善个人基本信息](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E5%BC%80%E9%80%9A-4.jpg)
+### 第五步：完善个人基本信息，然后点击“完成认证”按钮。
 
-### 第五步：使用支付宝给Wildcard虚拟信用卡充值。
+注意：当你点击了“完成认证”之后，就代表你已经成功地拥有了一张“野卡YEKA虚拟信用卡”。接下来，野卡还会引导你进行更深入的实名认证。如果你不想透露更多隐私信息的话，可以在点击了“完成认证”按钮之后，直接跳至“步骤六”继续操作。
+
+![国内ChatGPT Plus升级第五步：完善个人基本信息，然后点击“完成认证”按钮](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT-Plus-Yeka-5.png)
+
+### 第六步：使用支付宝给“野卡虚拟信用卡”充值。
 
 注意：由于ChatGPT Plus的订阅费用为每月20美金，因此充值金额必须大约20美金。
 
-![国内ChatGPT Plus开通第五步：使用支付宝给Wildcard虚拟信用卡充值](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E5%BC%80%E9%80%9A-5.jpg)
+![国内ChatGPT Plus开通第六步：使用支付宝给“野卡虚拟信用卡”充值](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT-Plus-Yeka-6.png)
 
-### 第六步：点击“ChatGPT Plus一键升级”按钮。
+### 第七步：点击“ChatGPT一键升级”按钮。
 
-![国内ChatGPT Plus购买第六步：点击“ChatGPT Plus一键升级”按钮](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E5%BC%80%E9%80%9A-6.jpg)
-
-### 第七步：选择订阅类型。
-
-![中国ChatGPT Plus订阅第七步：选择订阅类型](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E5%BC%80%E9%80%9A-7.jpg)
+![国内ChatGPT Plus购买第七步：点击“ChatGPT一键升级”按钮](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT-Plus-Yeka-7.png)
 
 ### 第八步：打开ChatGPT官网，使用帐号密码登录并点击“升级套餐”。
 
@@ -123,9 +123,9 @@
 
 ![中国ChatGPT Plus开通第九步：复制ChatGPT支付页面链接](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E5%BC%80%E9%80%9A-9.jpg)
 
-### 第十步：粘贴链接并点击“一键升级”。
+### 第十步：粘贴链接并点击“下一步”按钮。
 
-![中国ChatGPT Plus购买第十步：粘贴链接并点击“一键升级”](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E5%BC%80%E9%80%9A-10.jpg)
+![中国ChatGPT Plus购买第十步：粘贴链接并点击“下一步”按钮](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT-Plus-Yeka-8.png)
 
 ### 第十一步：按照提示完成后续操作，即可成功开通ChatGPT Plus帐号。
 
