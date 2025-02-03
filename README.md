@@ -73,9 +73,9 @@
 
 ## ChatGPT Plus购买方法一：国内支付宝开通ChatGPT Plus帐号
 
-如果你在工作和生活中高度依赖ChatGPT，或者希望拥有独立的ChatGPT Plus账号，那么我们推荐使用“国内支付宝开通ChatGPT Plus账号”这一方式。接下来，我们将手把手地教大家如何快速获取一张<a href="https://yeka.ai/i/ANYOFAI">野卡YEKA虚拟信用卡</a>、并使用支付宝为其充值，然后再使用这张虚拟信用卡开通ChatGPT Plus账号。
+如果你在工作和生活中高度依赖ChatGPT，或者希望拥有独立的ChatGPT Plus账号，那么我们推荐使用“国内支付宝开通ChatGPT Plus账号”这一方式。接下来，我们将手把手地教大家如何快速获取一张<a href="https://yeka.ai/i/ANYOFAI">野卡（原WildCard升级版）虚拟信用卡</a>、并使用支付宝为其充值，然后再使用这张虚拟信用卡开通ChatGPT Plus账号。
 
-注意：也许有些同学可能会疑惑，为什么要使用“野卡YEKA虚拟信用卡”，而不是直接使用支付宝或国内信用卡来订阅ChatGPT Plus会员？正如前文所述，OpenAI尚未向中国用户开放，因此中国大陆（包括香港）的信用卡、银联卡、支付宝和微信等支付方式均无法直接用于ChatGPT Plus订阅。因此，中国大陆用户开通ChatGPT Plus的唯一方法就是先获取一张“野卡YEKA虚拟信用卡”，然后再使用它支付ChatGPT Plus订阅费用。
+注意：也许有些同学可能会疑惑，为什么要使用“野卡（原WildCard升级版）虚拟信用卡”，而不是直接使用支付宝或国内信用卡来订阅ChatGPT Plus会员？正如前文所述，OpenAI尚未向中国用户开放，因此中国大陆（包括香港）的信用卡、银联卡、支付宝和微信等支付方式均无法直接用于ChatGPT Plus订阅。因此，中国大陆用户开通ChatGPT Plus的唯一方法就是先获取一张“野卡YEKA虚拟信用卡”，然后再使用它支付ChatGPT Plus订阅费用。
 
 小提示：此方法我们前几天刚测试过，绝对真实有效，而且ChatGPT Plus开通成功率为100%，整个流程也只需十分钟。
 
