@@ -101,7 +101,7 @@
 
 ### 第五步：完善个人基本信息，然后点击“完成认证”按钮。
 
-注意：当你点击了“完成认证”之后，就代表你已经成功地拥有了一张“野卡YEKA虚拟信用卡”。接下来，野卡还会引导你进行更深入的实名认证。如果你不想透露更多隐私信息的话，可以在点击了“完成认证”按钮之后，直接跳至“步骤六”继续操作。
+注意：当你点击了“完成认证”按钮之后，就代表你已经地拥有了一张“野卡YEKA虚拟信用卡”。接下来，野卡还会引导你进行更深入的实名认证。如果你不想透露更多隐私信息的话，可以在点击了“完成认证”按钮之后，直接跳至“步骤六”继续操作。
 
 ![国内ChatGPT Plus升级第五步：完善个人基本信息，然后点击“完成认证”按钮](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT-Plus-Yeka-5.png)
 
@@ -123,9 +123,9 @@
 
 ![中国ChatGPT Plus开通第九步：复制ChatGPT支付页面链接](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E5%BC%80%E9%80%9A-9.jpg)
 
-### 第十步：粘贴链接并点击“下一步”按钮。
+### 第十步：返回到野卡后台，粘贴链接并点击“下一步”按钮。
 
-![中国ChatGPT Plus购买第十步：粘贴链接并点击“下一步”按钮](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT-Plus-Yeka-8.png)
+![中国ChatGPT Plus购买第十步：返回到野卡后台，粘贴链接并点击“下一步”按钮](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT-Plus-Yeka-8.png)
 
 ### 第十一步：按照提示完成后续操作，即可成功开通ChatGPT Plus帐号。
 
