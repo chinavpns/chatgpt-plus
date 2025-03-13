@@ -1,6 +1,6 @@
 # 中国ChatGPT Plus购买教程：包括使用国内支付宝开通ChatGPT Plus账号、通过专业平台购买ChatGPT Plus合租共享账号、通过专业代充值平台完成ChatGPT Plus充值
 
-<p align="center">最近更新于：2025年2月20日</p>
+<p align="center">最近更新于：2025年3月13日</p>
 
 ![中国ChatGPT Plus购买教程：包括使用国内支付宝开通ChatGPT Plus账号、通过专业平台购买ChatGPT Plus合租共享账号、通过专业代充值平台完成ChatGPT Plus充值](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E8%B4%AD%E4%B9%B0.png)
 
