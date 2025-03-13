@@ -79,7 +79,7 @@
 
 小提示：此方法我们前几天刚测试过，绝对真实有效，而且ChatGPT Plus开通成功率为100%，整个流程也只需十分钟。
 
-### 第一步：打开“WildCard野卡”官网并使用国内手机号完成帐号注册。
+### 第一步：打开WildCard野卡官网并使用国内手机号完成帐号注册。
 
 * WildCard野卡官网：<a href="https://yeka.ai/i/ANYOFAI">https://yeka.ai/i/ANYOFAI</a>
 
