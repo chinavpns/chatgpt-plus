@@ -79,15 +79,13 @@ WildCard野卡已于2025年7月12日关停服务，也就是说以后无法再�
 
 ## ChatGPT Plus购买方法一：国内支付宝开通ChatGPT Plus帐号
 
-如果你在工作和生活中高度依赖ChatGPT，或者希望拥有独立的ChatGPT Plus账号，那么我们推荐使用“国内支付宝开通ChatGPT Plus账号”这一方式。接下来，我们将手把手地教大家如何快速获取一张“<a href="https://yeka.ai/i/ANYOFAI">WildCard野卡虚拟信用卡</a>”、并使用支付宝为其充值，然后再使用这张虚拟信用卡开通ChatGPT Plus账号。
+如果你在工作和生活中高度依赖ChatGPT，或者希望拥有独立的ChatGPT Plus账号，那么我们推荐使用“国内支付宝开通ChatGPT Plus账号”这一方式。接下来，我们将手把手地教大家如何快速获取一张“WildCard野卡虚拟信用卡”、并使用支付宝为其充值，然后再使用这张虚拟信用卡开通ChatGPT Plus账号。
 
-注意：也许有些同学可能会疑惑，为什么要使用“**WildCard野卡虚拟信用卡**”，而不是直接使用支付宝或国内信用卡来订阅ChatGPT Plus会员？正如前文所述，OpenAI尚未向中国用户开放，因此中国大陆（包括香港）的信用卡、银联卡、支付宝和微信等支付方式均无法直接用于ChatGPT Plus订阅。因此，中国大陆用户开通ChatGPT Plus的唯一方法就是先获取一张“野卡YEKA虚拟信用卡”，然后再使用它支付ChatGPT Plus订阅费用。
+注意：也许有些同学可能会疑惑，为什么要使用“WildCard野卡虚拟信用卡”，而不是直接使用支付宝或国内信用卡来订阅ChatGPT Plus会员？正如前文所述，OpenAI尚未向中国用户开放，因此中国大陆（包括香港）的信用卡、银联卡、支付宝和微信等支付方式均无法直接用于ChatGPT Plus订阅。因此，中国大陆用户开通ChatGPT Plus的唯一方法就是先获取一张“野卡YEKA虚拟信用卡”，然后再使用它支付ChatGPT Plus订阅费用。
 
 小提示：此方法我们前几天刚测试过，绝对真实有效，而且ChatGPT Plus开通成功率为100%，整个流程也只需十分钟。
 
 ### 第一步：打开WildCard野卡官网并使用国内手机号完成帐号注册。
-
-* WildCard野卡官网：<a href="https://yeka.ai/i/ANYOFAI">https://yeka.ai/i/ANYOFAI</a>
 
 ![国内ChatGPT Plus开通第一步：打开“野卡YEKA”官网并使用国内手机号完成帐号注册](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT-Plus-Yeka-1.png)
 
@@ -99,9 +97,9 @@ WildCard野卡已于2025年7月12日关停服务，也就是说以后无法再�
 
 ![国内ChatGPT Plus订阅第三步：点击“开通会员”按钮](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT-Plus-Yeka-3.png)
 
-### 第四步：选择服务年限，输入邀请码“ANYOFAI”，并支付开卡费。
+### 第四步：选择服务年限，并支付开卡费。
 
-注意：**使用邀请码“ANYOFAI”可立减1美金**。此外，WildCard野卡虚拟信用卡的开卡费仅收取一次，后续就是充值多少实到账多少，无其他费用了。在未来的1至2年内，你不仅可以使用野卡虚拟信用卡来支付ChatGPT Plus订阅费用，还可以用它来支付OpenAI API、Claude Pro、MidJourney、Google Gemini、Apple Store、Google Play、Facebook、Twitter、Youtube、Onlyfans、Spotify、Github、Telegram等平台的费用。
+WildCard野卡虚拟信用卡的开卡费仅收取一次，后续就是充值多少实到账多少，无其他费用了。在未来的1至2年内，你不仅可以使用野卡虚拟信用卡来支付ChatGPT Plus订阅费用，还可以用它来支付OpenAI API、Claude Pro、MidJourney、Google Gemini、Apple Store、Google Play、Facebook、Twitter、Youtube、Onlyfans、Spotify、Github、Telegram等平台的费用。
 
 ![国内ChatGPT Plus购买第四步：选择服务年限，输入邀请码“ANYOFAI”，并支付开卡费](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT-Plus-Yeka-4.png)
 
@@ -138,8 +136,6 @@ WildCard野卡已于2025年7月12日关停服务，也就是说以后无法再�
 ![中国ChatGPT Plus订阅第十一步：按照提示完成后续操作，即可成功开通ChatGPT Plus帐号](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E5%BC%80%E9%80%9A-11.jpg)
 
 小结，我们先来简单总结一下国内使用支付宝开通ChatGPT Plus账号的流程：先申请一张“野卡YEKA虚拟信用卡”，再使用支付宝为其充值20美金，然后使用该卡支付ChatGPT Plus订阅费用。当你完成以上步骤之后，你便成功开通了ChatGPT Plus账号，接下来就可以尽情享受ChatGPT Plus的所有功能和服务。
-
-* 野卡YEKA官网：<a href="https://yeka.ai/i/ANYOFAI">https://yeka.ai/i/ANYOFAI</a>
 
 ## ChatGPT Plus购买方法二：拼车合租ChatGPT Plus帐号
 
@@ -184,8 +180,6 @@ WildCard野卡已于2025年7月12日关停服务，也就是说以后无法再�
 
 OK，截止到目前为止，你已经成功获取了一个ChatGPT Plus合租共享帐号，接下来就可以正式体验ChatGPT Plus的强大了。此外，银河录像局不仅提供“国内镜像直连”服务，还提供“共享会员”和“独立会员”服务。其中，“国内镜像直连”无需翻墙即可使用ChatGPT Plus，而“共享会员”和“独立会员”则需要翻墙之后才可以使用ChatGPT Plus。
 
-小提示：尽管银河录像局的服务非常的安全可靠，但合租ChatGPT Plus本质上并不完全安全，因为多个用户共享同一个帐号，其他用人可以看到你的使用历史数据。所以，如果你在工作中需要频繁使用ChatGPT Plus，或者对隐私安全有较高要求，那么我们强烈建议你<a href="https://github.com/chinavpns/chatgpt-plus?tab=readme-ov-file#chatgpt-plus%E8%B4%AD%E4%B9%B0%E6%96%B9%E6%B3%95%E4%B8%80%E5%9B%BD%E5%86%85%E6%94%AF%E4%BB%98%E5%AE%9D%E5%BC%80%E9%80%9Achatgpt-plus%E5%B8%90%E5%8F%B7">使用“野卡虚拟信用卡”来购买一个独立的ChatGPT Plus帐号</a>。
-
 ## ChatGPT Plus购买方法三：使用ChatGPT Plus代充值服务
 
 如果你觉得ChatGPT Plus合租帐号不够安全，或者不想花费太多时间去申请野卡虚拟信用卡，但又希望拥有一个专属于自己的ChatGPT Plus帐号，那么可以尝试使用ChatGPT Plus代充值服务。所谓的ChatGPT Plus代充值，即你将自己的ChatGPT帐号和密码提供给代充值服务商，然后由服务商代为完成ChatGPT Plus充值，之后你就可以登录账号并享受ChatGPT Plus会员服务。
@@ -196,7 +190,7 @@ OK，截止到目前为止，你已经成功获取了一个ChatGPT Plus合租共
 
 ### 第一步：打开星际放映厅官网，并使用手机号登录。
 
-* 星际放映厅官网：<a href="https://www.naifeistation.com?invite=3wLPME">https://www.naifeistation.com?invite=3wLPME</a>
+* 星际放映厅官网：<a href="https://www.naifeistation.com/i/3wLPME">https://www.naifeistation.com/i/3wLPME</a>
 
 ![国内ChatGPT Plus代充值第一步：打开星际放映厅官网，并使用手机号登录](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E4%BB%A3%E5%85%85%E5%80%BC-1.jpg)
 
@@ -220,7 +214,7 @@ OK，截止到目前为止，你已经成功获取了一个ChatGPT Plus合租共
 
 ![国内ChatGPT Plus代充值第五步：等待星际放映厅发送激活短信](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E4%BB%A3%E5%85%85%E5%80%BC-5.jpg)
 
-小结，当你收到来自星际放映厅的激活短信之后，就表示你的ChatGPT Plus充值已完成。接下来，只需使用你的ChatGPT帐号和密码登录，即可正式开始使用ChatGPT Plus的全部功能和服务。不过，我们依然要提醒大家，如果你在工作中需要频繁地使用ChatGPT Plus，那么最好<a href="https://github.com/chinavpns/chatgpt-plus?tab=readme-ov-file#chatgpt-plus%E8%B4%AD%E4%B9%B0%E6%96%B9%E6%B3%95%E4%B8%80%E5%9B%BD%E5%86%85%E6%94%AF%E4%BB%98%E5%AE%9D%E5%BC%80%E9%80%9Achatgpt-plus%E5%B8%90%E5%8F%B7">通过“野卡虚拟信用卡”购买一个独属于自己的ChatGPT Plus账号</a>，以更好地保障账号安全和隐私。
+小结，当你收到来自星际放映厅的激活短信之后，就表示你的ChatGPT Plus充值已完成。接下来，只需使用你的ChatGPT帐号和密码登录，即可正式开始使用ChatGPT Plus的全部功能和服务。
 
 ## 跟ChatGPT相比，ChatGPT Plus有哪些优势？
 
@@ -284,11 +278,11 @@ PayPal是OpenAI支持的另一种支付方式，用户可以通过绑定的PayPa
 
 * 方法一：使用野卡虚拟信用卡
 
-中国用户可以通过<a href="https://yeka.ai/i/ANYOFAI">野卡虚拟信用卡</a>充值ChatGPT Plus。这种方式允许用户在没有实体国际信用卡的情况下完成跨境支付，操作便捷且成功率较高，非常适合没有国际信用卡的用户。
+中国用户可以通过野卡虚拟信用卡充值ChatGPT Plus。这种方式允许用户在没有实体国际信用卡的情况下完成跨境支付，操作便捷且成功率较高，非常适合没有国际信用卡的用户。
 
 * 方法二：ChatGPT Plus代充值服务
 
-国内有不少ChatGPT Plus代充值服务商，例如我们在前文提到的“<a href="https://www.naifeistation.com?invite=3wLPME">星际放映厅</a>”。用户可以通过这些服务商完成订阅。然而，在选择此类服务时应特别谨慎，确保服务商的合法性和安全性，避免遭遇诈骗或信息泄露的风险。
+国内有不少ChatGPT Plus代充值服务商，例如我们在前文提到的“<a href="https://www.naifeistation.com/i/3wLPME">星际放映厅</a>”。用户可以通过这些服务商完成订阅。然而，在选择此类服务时应特别谨慎，确保服务商的合法性和安全性，避免遭遇诈骗或信息泄露的风险。
 
 * 方法三：ChatGPT Plus拼车合租
 
@@ -325,8 +319,6 @@ PayPal是OpenAI支持的另一种支付方式，用户可以通过绑定的PayPa
 
 野卡为用户提供了一种灵活、高效的支付方式，尤其是在国内缺乏国际信用卡的情况下，解决了用户在国际支付中遇到的难题。它不仅应用广泛，而且操作简便，是一个兼具实用性和可靠性的工具。通过野卡，用户能够轻松完成国际支付需求，无论是订阅数字服务还是进行其他跨境支付，都可以依赖这一工具。
 
-<p align="center"><a href="https://yeka.ai/i/ANYOFAI">立即获取野卡虚拟信用卡</a></p>
-
 ### 野卡是怎么收费的？
 
 野卡虚拟信用卡的收费结构清晰，涵盖开卡费用、充值手续费、消费手续费、提现手续费以及交易退款手续费。以下是针对每项收费的详细说明：
@@ -353,8 +345,6 @@ PayPal是OpenAI支持的另一种支付方式，用户可以通过绑定的PayPa
 
 小结，通过以上收费说明可以看出，野卡的收费模式透明合理，特别是对经常使用美元支付的用户极为友好。其便捷的充值、提现和支付功能，为用户提供了更多的灵活性和便利。无论是订阅数字服务、进行跨境消费，还是提现余额，野卡都能够高效满足用户的支付需求，成为解决国际支付问题的重要工具。
 
-<p align="center"><a href="https://yeka.ai/i/ANYOFAI">立即获取野卡虚拟信用卡</a></p>
-
 ### 野卡的核心功能有哪些？
 
 野卡是一个专注于虚拟信用卡及相关增值服务的平台，旨在帮助用户解决国际支付难题，同时为跨境数字服务提供一站式解决方案。以下是野卡的四大核心功能：
@@ -378,8 +368,6 @@ PayPal是OpenAI支持的另一种支付方式，用户可以通过绑定的PayPa
 野卡还提供免费的海外手机号服务，帮助用户轻松完成海外平台的注册和验证。用户可以使用生成的海外手机号完成Claude等支持手机号验证的平台的账号注册，每个用户可免费使用3次。这项服务特别适合有短期注册需求的用户，例如需要验证账号或绑定特定平台。生成的手机号可以直接用于接收验证码，操作简单，使用便捷，为用户在跨境场景中提供了高效的解决方案。
 
 小结，野卡通过虚拟信用卡服务、一键升级服务、2233.ai随心用，以及海外手机号和邮箱服务，为用户打造了一个集支付、订阅管理和技术服务于一体的综合平台。无论是跨境支付、数字服务订阅，还是AI模型的灵活使用，野卡都以其多样化的功能和便捷的体验，为用户提供了高效的解决方案。
-
-<p align="center"><a href="https://yeka.ai/i/ANYOFAI">立即获取野卡虚拟信用卡</a></p>
 
 ## 国内ChatGPT Plus购买相关的其他文章：
 
