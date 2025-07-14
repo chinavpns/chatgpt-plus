@@ -1,6 +1,10 @@
 # 中国ChatGPT Plus购买教程：包括使用国内支付宝开通ChatGPT Plus账号、通过专业平台购买ChatGPT Plus合租共享账号、通过专业代充值平台完成ChatGPT Plus充值
 
-<p align="center">最近更新于：2025年7月6日</p>
+<p align="center">最近更新于：2025年7月13日</p>
+
+#### 🚨重要提示🚨：
+
+WildCard野卡已于2025年7月12日关停服务，也就是说以后无法再使用WildCard野卡订阅ChatGPT Plus会员。因此，近期如果大家需要使用ChatGPT，可以优先考虑“合租ChatGPT Plus帐号”或“ChatGPT Plus代充值”等服务。
 
 ![中国ChatGPT Plus购买教程：包括使用国内支付宝开通ChatGPT Plus账号、通过专业平台购买ChatGPT Plus合租共享账号、通过专业代充值平台完成ChatGPT Plus充值](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E8%B4%AD%E4%B9%B0.png)
 
