@@ -264,8 +264,6 @@ PayPal是OpenAI支持的另一种支付方式，用户可以通过绑定的PayPa
 
 总的来说，如果你拥有国外信用卡或PayPal账户，那么可以通过这两种方式为ChatGPT Plus充值。对于绝大多数中国用户而言，使用野卡虚拟信用卡是当前最简单、最便捷的选择。
 
-<p align="center"><a href="https://github.com/chinavpns/chatgpt-plus?tab=readme-ov-file#chatgpt-plus%E8%B4%AD%E4%B9%B0%E6%96%B9%E6%B3%95%E4%B8%80%E5%9B%BD%E5%86%85%E6%94%AF%E4%BB%98%E5%AE%9D%E5%BC%80%E9%80%9Achatgpt-plus%E5%B8%90%E5%8F%B7">点击查看野卡虚拟信用卡充值ChatGPT Plus操作步骤</a></p>
-
 ## 国内订阅充值ChatGPT Plus时信用卡被拒怎么办？
 
 在中国大陆购买ChatGPT Plus时，信用卡支付被拒绝是常见问题，常见提示包括“unable to authorize（未能验证您的支付方式）”或“card has been declined（银行卡被拒绝）”。造成这一问题的主要原因在于，OpenAI目前不支持中国大陆和香港地区的信用卡支付。如果你身处中国大陆，并且想要开通ChatGPT Plus账号，可尝试以下几种替代方式：
