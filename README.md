@@ -180,7 +180,7 @@ OK，截止到目前为止，你已经成功获取了一个ChatGPT Plus合租共
 
 ## ChatGPT Plus购买方法三：使用ChatGPT Plus代充值服务
 
-如果经过综合对比和考虑后，你依然想寻找ChatGPT Plus代充值服务，那么可以优先考虑：<a href="https://www.naifeistation.com?invite=3wLPME">星际放映厅</a>。星际放映厅是一家专门提供ChatGPT Plus代充值服务的平台，安全性较高，使用方便，充值速度快。以下是使用星际放映厅充值ChatGPT Plus的具体操作步骤：
+如果经过综合对比和考虑后，你依然想寻找ChatGPT Plus代充值服务，那么可以优先考虑：<a href="https://www.naifeistation.com/i/3wLPME">星际放映厅</a>。星际放映厅是一家专门提供ChatGPT Plus代充值服务的平台，安全性较高，使用方便，充值速度快。以下是使用星际放映厅充值ChatGPT Plus的具体操作步骤：
 
 ### 第一步：打开星际放映厅官网，并使用手机号登录。
 
