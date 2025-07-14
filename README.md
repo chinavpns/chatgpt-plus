@@ -180,10 +180,6 @@ OK，截止到目前为止，你已经成功获取了一个ChatGPT Plus合租共
 
 ## ChatGPT Plus购买方法三：使用ChatGPT Plus代充值服务
 
-如果你觉得ChatGPT Plus合租帐号不够安全，或者不想花费太多时间去申请野卡虚拟信用卡，但又希望拥有一个专属于自己的ChatGPT Plus帐号，那么可以尝试使用ChatGPT Plus代充值服务。所谓的ChatGPT Plus代充值，即你将自己的ChatGPT帐号和密码提供给代充值服务商，然后由服务商代为完成ChatGPT Plus充值，之后你就可以登录账号并享受ChatGPT Plus会员服务。
-
-虽然ChatGPT Plus代充值看似比较省事儿，无需申请和使用野卡虚拟信用卡来为ChatGPT Plus充值，比较适合比较“懒”的用户。但ChatGPT Plus代充值却存在两个比较明显的弊端。首先，你需要将ChatGPT帐号密码提供给代充值服务商，这会增加帐号的安全风险。其次，ChatGPT Plus代充值的费用较高，除了每月20美元的ChatGPT Plus订阅费用外，服务商还会收取不小的手续费。所以，与使用野卡虚拟信用卡自行开通ChatGPT Plus相比，ChatGPT Plus代充值服务基本没有太大的优势可言。因此，我们建议大家尽量自行开通ChatGPT Plus会员，避免使用ChatGPT Plus代充值服务，以保障账号安全和降低成本。
-
 如果经过综合对比和考虑后，你依然想寻找ChatGPT Plus代充值服务，那么可以优先考虑：<a href="https://www.naifeistation.com?invite=3wLPME">星际放映厅</a>。星际放映厅是一家专门提供ChatGPT Plus代充值服务的平台，安全性较高，使用方便，充值速度快。以下是使用星际放映厅充值ChatGPT Plus的具体操作步骤：
 
 ### 第一步：打开星际放映厅官网，并使用手机号登录。
