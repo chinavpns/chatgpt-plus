@@ -76,6 +76,8 @@ OK，废话不多说，下面正式进入正题。接下来我们会为大家推
 
 <p align="center"><a href="https://nf.video/BTgSc">立即访问银河录像局官网</a></p>
 
+****
+
 ## 跟ChatGPT相比，ChatGPT Plus有哪些优势？
 
 随着ChatGPT的普及，越来越多的用户开始关注ChatGPT Plus这一高级订阅服务。与免费版相比，ChatGPT Plus在功能、性能和用户体验方面均有显著优化，以下是其主要优势：
