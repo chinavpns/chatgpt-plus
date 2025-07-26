@@ -24,7 +24,9 @@ OK，废话不多说，下面正式进入正题。接下来我们会为大家推
 
 现在，大家可以通过银河录像局购买ChatGPT账号、合租ChatGPT Plus会员、购买ChatGPT Plus成品账号，或为自己的ChatGPT账号代充值等。
 
-（1）**购买ChatGPT 3.5账号**：如果你还没有ChatGPT账号，可以直接通过银河录像局购买一个ChatGPT 3.5账号，价格也很便宜，每个账号仅需10元！
+（1）**银河录像局提供的服务一、购买ChatGPT 3.5账号**
+
+如果你还没有ChatGPT账号，可以直接通过银河录像局购买一个ChatGPT 3.5账号，价格也很便宜，每个账号仅需10元！
 
 ![](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%E5%B8%90%E5%8F%B7%E8%B4%AD%E4%B9%B0--%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-1.png)
 
