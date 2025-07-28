@@ -60,7 +60,7 @@ OK，废话不多说，下面正式进入正题。接下来我们会为大家推
 
 ![通过银河录像局合租、购买、代充值其他AI工具](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%E5%B8%90%E5%8F%B7%E8%B4%AD%E4%B9%B0--%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-7.png)
 
-### 七、合租Netflix等流媒体服务
+### 七、合租Netflix等流媒体
 
 银河录像局还提供Netflix、Disney、HBO Max、Prime Video、YouTube、Spotify、iCloud+等流媒体帐号合租服务。
 
