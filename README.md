@@ -110,7 +110,7 @@ OK，废话不多说，下面正式进入正题。接下来我们会为大家推
 
 ****
 
-## ChatGPT帐号购买替补平台：<a href="https://universalbus.cn/?s=ofZoHZpnhr">环球巴士</a>
+## ChatGPT帐号购买替补平台：<a href="https://wallvpn.com/go/hqbs/">环球巴士</a>
 
 环球巴士成立于2019年7月，隶属于杭州十全信息科技有限公司。作为一家专注于流媒体账号和AI工具合租的综合平台，环球巴士提供Netflix、Disney+、Spotify等流媒体账号合租服务，以及ChatGPT Plus合租、ChatGPT Plus代充值、Claude代充值、Midjourney合租等多种服务。
 
@@ -128,7 +128,7 @@ OK，废话不多说，下面正式进入正题。接下来我们会为大家推
 
 小结：虽然环球巴士更偏向于流媒体合租，在AI工具合租和代充值方面的服务相对较少，但其专业性和服务质量是毋庸置疑的，有需要的同学可以放心大胆地使用！
 
-<p align="center"><a href="https://universalbus.cn/?s=ofZoHZpnhr">立即访问环球巴士官网</a></p>
+<p align="center"><a href="https://wallvpn.com/go/hqbs/">立即访问环球巴士官网</a></p>
 
 ****
 
