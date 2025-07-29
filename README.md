@@ -126,6 +126,10 @@ OK，废话不多说，下面正式进入正题。接下来我们会为大家推
 
 ![环球巴士还提供Midjourney镜像服务](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%E8%B4%A6%E5%8F%B7%E8%B4%AD%E4%B9%B0-%E7%8E%AF%E7%90%83%E5%B7%B4%E5%A3%AB-3.png)
 
+四、环球巴士还提供不同面值的美区Apple礼品卡和港区Apple礼品卡，有需要的同学也可以看看。
+
+![环球巴士还提供不同面值的美区Apple礼品卡和港区Apple礼品卡](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%E8%B4%A6%E5%8F%B7%E8%B4%AD%E4%B9%B0-%E7%8E%AF%E7%90%83%E5%B7%B4%E5%A3%AB-4.png)
+
 小结：虽然环球巴士更偏向于流媒体合租，在AI工具合租和代充值方面的服务相对较少，但其专业性和服务质量是毋庸置疑的，有需要的同学可以放心大胆地使用！
 
 <p align="center"><a href="https://wallvpn.com/go/hqbs/">立即访问环球巴士官网</a></p>
