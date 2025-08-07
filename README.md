@@ -1,12 +1,12 @@
 # 最新ChatGPT帐号购买教程：WildCard野卡跑路后，如何为你的ChatGPT帐号代充值？如何购买ChatGPT Plus帐号(原生独立帐号)？如何拼车合租ChatGPT Plus帐号？
 
-<p align="center">最近更新于：2025年8月7日</p>
+<p align="center">最近更新于：2025年8月8日</p>
 
 ![最新ChatGPT帐号购买教程：WildCard野卡跑路后，如何为你的ChatGPT帐号代充值？如何购买ChatGPT Plus帐号(原生独立帐号)？如何拼车合租ChatGPT Plus帐号？](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E8%B4%AD%E4%B9%B0.png)
 
 ChatGPT是最近这两年最火爆，也是全球使用人数最多的AI工具。以前，国内用户主要通过FormPay、WildCard野卡等虚拟信用卡去订阅充值ChatGPT帐号。但非常不幸的是，FormPay于2024年8月份跑路了，而WildCard野卡因为某些不可描述的原因，于2025年7月12日被迫停止运营了。所以，现在国内用户如果还想继续使用ChatGPT Plus会员的话，就只剩下以下三种方式了：
 
-* 一、**拼车合租ChatGPT Plus会员**：这种方式无需翻墙，也无需注册ChatGPT帐号，价格非常便宜，每月仅需27元，非常适合偶尔使用ChatGPT的轻度用户。
+* 一、**拼车合租ChatGPT Plus会员**：这种方式无需翻墙，也无需注册ChatGPT帐号，价格非常便宜，**每月仅需27元**，非常适合偶尔使用ChatGPT的轻度用户。
 
 * 二、**购买ChatGPT Plus原生独立帐号**：直接购买一个已经完成订阅充值的ChatGPT Plus帐号，**每月仅需152元**，拿到手就可以直接使用。这种方式比较适合还没有ChatGPT帐号、并且需要经常使用ChatGPT的用户。
 
