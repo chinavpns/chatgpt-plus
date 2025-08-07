@@ -48,7 +48,7 @@ OK，废话不多说，下面正式进入正题。接下来我们会为大家推
 
 ### 五、为现有ChatGPT账号代充值
 
-如果你是ChatGPT老用户，并且想要继续使用自己之前的ChatGPT账号，也可以选择银河录像局提供的“ChatGPT Plus代充”服务。现在参与平台活动后，**ChatGPT Plus代充每月仅需152元** （**“1年”套餐折合133元/月**）。
+如果你是ChatGPT老用户，并且想要继续使用自己之前的ChatGPT账号，也可以选择银河录像局提供的“ChatGPT Plus代充”服务。现在参与平台活动的话，**ChatGPT Plus代充值仅需152元/月**。如果选择1年套餐，**价格低至133元/月**。
 
 ![通过银河录像局为现有ChatGPT账号代充值](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%E5%B8%90%E5%8F%B7%E8%B4%AD%E4%B9%B0--%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-5.png)
 
