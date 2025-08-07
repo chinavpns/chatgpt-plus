@@ -30,7 +30,7 @@ OK，废话不多说，下面正式进入正题。接下来我们会为大家推
 
 ### 二、购买ChatGPT Plus镜像服务
 
-“银河AI”是银河录像局推出的ChatGPT Plus镜像服务。用户不仅**无需科学上网、无需注册账号，也没有封号风险**，而且价格也非常便宜，**每月仅需29元**。该服务不仅支持GPT-4o生图功能和GPT-4.1/o3/o1系列模型，还支持完整版DeepSeek-R1、马斯克的Grok-4，以及谷歌Gemini-25 Pro等顶尖大模型，让你能够同时体验多种前沿AI技术的强大功能。不过，“银河AI”服务有使用次数限制，更适合ChatGPT轻度用户。
+“银河AI”是银河录像局推出的ChatGPT Plus镜像服务。用户不仅**无需科学上网、无需注册账号，也没有封号风险**，而且价格也非常便宜，**每月仅需29元**。该服务不仅支持GPT-4o生图功能和GPT-4.1/o3/o1系列模型，还支持完整版DeepSeek-R1、马斯克的Grok-4，以及谷歌Gemini-2.5 Pro等顶尖大模型，让你能够同时体验多种前沿AI技术的强大功能。不过，“银河AI”服务有使用次数限制，更适合ChatGPT轻度用户。
 
 ![通过银河录像局购买ChatGPT Plus镜像服务](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%E5%B8%90%E5%8F%B7%E8%B4%AD%E4%B9%B0--%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-2.png)
 
@@ -48,7 +48,7 @@ OK，废话不多说，下面正式进入正题。接下来我们会为大家推
 
 ### 五、为现有ChatGPT账号代充值
 
-如果你是ChatGPT老用户，并且想要继续使用自己之前的ChatGPT账号，也可以选择银河录像局提供的“ChatGPT Plus代充”服务。现在参与平台活动后，**ChatGPT Plus代充每月仅需152元**。
+如果你是ChatGPT老用户，并且想要继续使用自己之前的ChatGPT账号，也可以选择银河录像局提供的“ChatGPT Plus代充”服务。现在参与平台活动后，**ChatGPT Plus代充每月仅需152元** （**“1年”套餐折合133元/月**）。
 
 ![通过银河录像局为现有ChatGPT账号代充值](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%E5%B8%90%E5%8F%B7%E8%B4%AD%E4%B9%B0--%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-5.png)
 
