@@ -190,7 +190,9 @@ OK，废话不多说，下面正式进入正题。接下来我们会为大家推
 
 ## ChatGPT Plus可以直接订阅一年吗？
 
-目前，OpenAI官方仅支持按月订阅ChatGPT Plus会员，无法一次性订阅一年的ChatGPT Plus会员。但银河录像局提供的ChatGPT Plus原生独立账号和ChatGPT Plus代充值服务均支持年付套餐。你只需支付一次费用，就能连续使用ChatGPT Plus一整年。银河录像局会按月自动为你的ChatGPT Plus账号续费充值，你无需操心任何续订问题。在使用过程中，如果账号因封号等原因无法继续使用，银河录像局会为你免费更换一个全新的ChatGPT Plus账号，确保你能够顺利继续使用服务。
+可以！虽然OpenAI官方仅支持按月订阅ChatGPT Plus会员，无法一次性订阅一年的ChatGPT Plus会员。但银河录像局提供的ChatGPT Plus原生独立账号和ChatGPT Plus代充值服务均支持年付套餐。你只需支付一次费用，就能连续使用ChatGPT Plus一整年。银河录像局会按月自动为你的ChatGPT Plus账号续费充值，你无需操心任何续订问题。在使用过程中，如果账号因封号等原因无法继续使用，银河录像局会为你免费更换一个全新的ChatGPT Plus账号，确保你能够顺利继续使用服务。
+
+<p align="center"><a href="https://wallvpn.com/go/nf-video/">立即访问银河录像局官网</a></p>
 
 ## 如何取消ChatGPT Plus自动续费/订阅？
 
