@@ -86,7 +86,7 @@ OK，废话不多说，下面正式进入正题。接下来我们会为大家推
 
 ![通过星际放映厅直接购买ChatGPT 3.5账号](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%E8%B4%A6%E5%8F%B7%E8%B4%AD%E4%B9%B0-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-1.png)
 
-二、如果你是ChatGPT轻度用户，那么可以选择星际放映厅提供的**原生ChatGPT Plus账号合租**服务。如果你是ChatGPT重度用户，也可以直接购买一个**ChatGPT Plus原生独立账号**。星际放映厅会为你提供一个已经完成订阅充值的ChatGPT Plus会员账号，该账号完全独属于你一个人，没有任何功能和使用次数的限制。
+二、如果你是ChatGPT轻度用户，那么可以选择星际放映厅提供的**原生ChatGPT Plus账号合租**服务。如果你是ChatGPT重度用户，也可以直接**购买ChatGPT Plus原生独立账号**。星际放映厅会为你提供一个已经完成订阅充值的ChatGPT Plus会员账号，该账号完全独属于你一个人，没有任何功能和使用次数的限制。
 
 ![星际放映厅还提供原生ChatGPT Plus账号合租和ChatGPT Plus原生独立账号](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%E8%B4%A6%E5%8F%B7%E8%B4%AD%E4%B9%B0-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-2.png)
 
