@@ -44,7 +44,7 @@ OK，废话不多说，下面正式进入正题。接下来我们会为大家推
 
 如果你还没有ChatGPT账号，并且是ChatGPT重度用户的话，那么可以选择银河录像局提供的“独立会员”服务。银河录像局会**直接提供已经完成订阅充值的ChatGPT Plus原生独立账号**，用户拿到后即可直接使用，没有任何功能和使用次数限制，**每月仅需171元**，非常适合ChatGPT重度用户。
 
-![通过银河录像局购买ChatGPT Plus原生独立账号](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%E5%B8%90%E5%8F%B7%E8%B4%AD%E4%B9%B0--%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-4-1.png)
+![通过银河录像局购买ChatGPT Plus原生独立账号](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%E5%B8%90%E5%8F%B7%E8%B4%AD%E4%B9%B0-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-4-2.png)
 
 ### 五、为现有ChatGPT账号代充值
 
