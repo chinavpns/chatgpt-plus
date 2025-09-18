@@ -1,6 +1,6 @@
 # 最新ChatGPT帐号购买教程：WildCard野卡跑路后，如何为你的ChatGPT帐号代充值？如何购买ChatGPT Plus帐号(原生独立帐号)？如何拼车合租ChatGPT Plus帐号？
 
-<p align="center">最近更新于：2025年9月6日</p>
+<p align="center">最近更新于：2025年9月18日</p>
 
 ![最新ChatGPT帐号购买教程：WildCard野卡跑路后，如何为你的ChatGPT帐号代充值？如何购买ChatGPT Plus帐号(原生独立帐号)？如何拼车合租ChatGPT Plus帐号？](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E8%B4%AD%E4%B9%B0.png)
 
@@ -8,9 +8,9 @@ ChatGPT是最近这两年最火爆，也是全球使用人数最多的AI工具�
 
 * 一、**拼车合租ChatGPT Plus会员**：这种方式无需翻墙，也无需注册ChatGPT帐号，价格非常便宜，**每月仅需27元**，非常适合偶尔使用ChatGPT的轻度用户。
 
-* 二、**购买ChatGPT Plus原生独立帐号**：直接购买一个已经完成订阅充值的ChatGPT Plus帐号，**每月仅需152元**，拿到手就可以直接使用。这种方式比较适合还没有ChatGPT帐号、并且需要经常使用ChatGPT的用户。
+* 二、**购买ChatGPT Plus原生独立帐号**：直接购买一个已经完成订阅充值的ChatGPT Plus帐号，**每月仅需171元**，拿到手就可以直接使用。这种方式比较适合还没有ChatGPT帐号、并且需要经常使用ChatGPT的用户。
 
-* 三、**为你现有的ChatGPT帐号代充值**：如果你已经有ChatGPT帐号了，那么也可以选择为现有的ChatGPT帐号代充值，**每月仅需133元**。这种方式比较适合已经习惯使用自己帐号的老用户。
+* 三、**为你现有的ChatGPT帐号代充值**：如果你已经有ChatGPT帐号了，那么也可以选择为现有的ChatGPT帐号代充值，**每月仅需166元**。这种方式比较适合已经习惯使用自己帐号的老用户。
 
 OK，废话不多说，下面正式进入正题。接下来我们会为大家推荐三个非常专业的平台，大家可以通过这三个平台来购买ChatGPT Plus（成品）帐号、为自己的ChatGPT帐号充值，或者拼车合租ChatGPT Plus会员。
 
@@ -42,19 +42,19 @@ OK，废话不多说，下面正式进入正题。接下来我们会为大家推
 
 ### 四、购买ChatGPT Plus原生独立账号
 
-如果你还没有ChatGPT账号，并且是ChatGPT重度用户的话，那么可以选择银河录像局提供的“独立会员”服务。银河录像局会**直接提供已经完成订阅充值的ChatGPT Plus原生独立账号**，用户拿到后即可直接使用，没有任何功能和使用次数限制，**每月仅需152元**，非常适合ChatGPT重度用户。
+如果你还没有ChatGPT账号，并且是ChatGPT重度用户的话，那么可以选择银河录像局提供的“独立会员”服务。银河录像局会**直接提供已经完成订阅充值的ChatGPT Plus原生独立账号**，用户拿到后即可直接使用，没有任何功能和使用次数限制，**每月仅需171元**，非常适合ChatGPT重度用户。
 
 ![通过银河录像局购买ChatGPT Plus原生独立账号](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%E5%B8%90%E5%8F%B7%E8%B4%AD%E4%B9%B0--%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-4-1.png)
 
 ### 五、为现有ChatGPT账号代充值
 
-如果你是ChatGPT老用户，并且想要继续使用自己之前的ChatGPT账号，也可以选择银河录像局提供的“ChatGPT Plus代充”服务。现在参与平台活动的话，**ChatGPT Plus代充值仅需152元/月**。如果选择1年套餐，**价格低至133元/月**。
+如果你是ChatGPT老用户，并且想要继续使用自己之前的ChatGPT账号，也可以选择银河录像局提供的“ChatGPT Plus代充”服务。现在参与平台活动的话，**ChatGPT Plus代充值仅需180元/月**。如果选择1年套餐，**价格低至166元/月**。
 
 ![通过银河录像局为现有ChatGPT账号代充值](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%E5%B8%90%E5%8F%B7%E8%B4%AD%E4%B9%B0--%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-6-1.png)
 
 ### 六、合租或者代充值其他AI工具帐号
 
-银河录像局还提供Claude Pro合租（8元起）、SuperGrok合租（8元起）、SuperGrok原生独立账号（290元/月）、SuperGrok代充值（290元/月）、Midjourney合租（27元/月）、Midjourney原生独立账号（249元/月）等服务。
+银河录像局还提供Claude Pro合租（8元起）、Claude Code（9元起）、Midjourney合租（27元/月）等服务。
 
 ![通过银河录像局合租或者代充值其他AI工具帐号](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%E5%B8%90%E5%8F%B7%E8%B4%AD%E4%B9%B0--%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-7.png)
 
