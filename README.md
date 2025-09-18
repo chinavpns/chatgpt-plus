@@ -50,13 +50,13 @@ OK，废话不多说，下面正式进入正题。接下来我们会为大家推
 
 如果你是ChatGPT老用户，并且想要继续使用自己之前的ChatGPT账号，也可以选择银河录像局提供的“ChatGPT Plus代充”服务。现在参与平台活动的话，**ChatGPT Plus代充值仅需180元/月**。如果选择1年套餐，**价格低至166元/月**。
 
-![通过银河录像局为现有ChatGPT账号代充值](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%E5%B8%90%E5%8F%B7%E8%B4%AD%E4%B9%B0--%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-6-1.png)
+![通过银河录像局为现有ChatGPT账号代充值](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%E5%B8%90%E5%8F%B7%E8%B4%AD%E4%B9%B0--%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-6-2.png)
 
 ### 六、合租或者代充值其他AI工具帐号
 
 银河录像局还提供Claude Pro合租（8元起）、Claude Code（9元起）、Midjourney合租（27元/月）等服务。
 
-![通过银河录像局合租或者代充值其他AI工具帐号](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%E5%B8%90%E5%8F%B7%E8%B4%AD%E4%B9%B0--%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-7.png)
+![通过银河录像局合租或者代充值其他AI工具帐号](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%E5%B8%90%E5%8F%B7%E8%B4%AD%E4%B9%B0--%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-7-1.png)
 
 ### 七、合租Netflix、Spotify等流媒体账号
 
@@ -68,7 +68,7 @@ OK，废话不多说，下面正式进入正题。接下来我们会为大家推
 
 银河录像局还提供美区Apple ID账号（20元/个）、Google账号（20元/个）等服务。
 
-![通过银河录像局购买美区Apple ID账号、Google账号](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%E5%B8%90%E5%8F%B7%E8%B4%AD%E4%B9%B0--%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-9.png)
+![通过银河录像局购买美区Apple ID账号、Google账号](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%E5%B8%90%E5%8F%B7%E8%B4%AD%E4%B9%B0--%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-9-1.png)
 
 **重要提示**：如果你选择的是拼车合租ChatGPT Plus会员服务，那么在你完成支付后，点击银河录像局官网导航栏中的"车票"即可找到使用入口。如果你是购买ChatGPT Plus原生独立账号，那么当你完成支付后需要联系银河录像局的24小时在线客服，他们的在线客服会直接为你提供一个已经完成订阅充值的ChatGPT Plus帐号，你拿过来就可以直接使用。**如果你选择ChatGPT Plus代充值服务，银河录像局将为你提供24小时自助充值通道，你无需向平台透露自己的ChatGPT账号和密码，这样既能最大程度保障隐私安全，又能确保操作便捷高效，而且ChatGPT自助充值流程非常简单，通常只需五分钟即可完成**。
 
