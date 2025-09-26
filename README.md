@@ -54,7 +54,7 @@ OK，废话不多说，下面正式进入正题。接下来我们会为大家推
 
 ### 六、购买Codex中转服务
 
-如果你是开发者，可以选择Codex中转服务，专业版99元/月，至尊版198元/月，价格实惠，性价比高，非常适合个人开发者和团队长期使用。
+如果你是专业开发人员，也可以选择Codex中转服务，专业版99元/月，至尊版198元/月，价格实惠，性价比高，非常适合个人开发者和团队长期使用。
 
 ![通过银河录像局购买Codex中转服务](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/Codex%E4%B8%AD%E8%BD%AC.png)
 
