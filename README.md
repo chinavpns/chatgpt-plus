@@ -1,6 +1,6 @@
 # 最新ChatGPT帐号购买教程：WildCard野卡跑路后，如何为你的ChatGPT帐号代充值？如何购买ChatGPT Plus帐号(原生独立帐号)？如何拼车合租ChatGPT Plus帐号？
 
-<p align="center">最近更新于：2025年9月23日</p>
+<p align="center">最近更新于：2025年9月26日</p>
 
 ![最新ChatGPT帐号购买教程：WildCard野卡跑路后，如何为你的ChatGPT帐号代充值？如何购买ChatGPT Plus帐号(原生独立帐号)？如何拼车合租ChatGPT Plus帐号？](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E8%B4%AD%E4%B9%B0.png)
 
@@ -50,7 +50,7 @@ OK，废话不多说，下面正式进入正题。接下来我们会为大家推
 
 如果你是ChatGPT老用户，并且想要继续使用自己之前的ChatGPT账号，也可以选择银河录像局提供的“ChatGPT Plus代充”服务。现在参与平台活动的话，**ChatGPT Plus代充值仅需180元/月（参与平台活动后立减20元）**。如果选择1年套餐，**价格低至166元/月（参与平台活动后立减200元）**。
 
-![通过银河录像局为现有ChatGPT账号代充值](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%E5%B8%90%E5%8F%B7%E8%B4%AD%E4%B9%B0--%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-6-3.png)
+![通过银河录像局为现有ChatGPT账号代充值](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%E5%B8%90%E5%8F%B7%E8%B4%AD%E4%B9%B0--%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-6-4.png)
 
 ### 六、合租或者代充值其他AI工具帐号
 
