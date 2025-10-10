@@ -1,6 +1,6 @@
 # 最新ChatGPT帐号购买教程：WildCard野卡跑路后，如何为你的ChatGPT帐号代充值？如何购买ChatGPT Plus帐号(原生独立帐号)？如何拼车合租ChatGPT Plus帐号？
 
-<p align="center">最近更新于：2025年10月9日</p>
+<p align="center">最近更新于：2025年10月10日</p>
 
 ![最新ChatGPT帐号购买教程：WildCard野卡跑路后，如何为你的ChatGPT帐号代充值？如何购买ChatGPT Plus帐号(原生独立帐号)？如何拼车合租ChatGPT Plus帐号？](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E8%B4%AD%E4%B9%B0.png)
 
