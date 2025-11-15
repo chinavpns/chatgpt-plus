@@ -108,7 +108,7 @@ OK，废话不多说，下面正式进入正题。接下来我们会为大家推
 
 ![星际放映厅还提供美区Apple ID账号和Google账号等服务](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%E8%B4%A6%E5%8F%B7%E8%B4%AD%E4%B9%B0-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-6.png)
 
-小结：跟银河录像局一样，如果你购买的是ChatGPT Plus合租账号，当你完成付款后，直接点击星际放映厅官网导航栏中的“车票”即可找到使用入口。如果你想直接购买ChatGPT Plus原生独立账号，或者为自己的ChatGPT账号代充值，那么当你完成付款后，需要联系星际放映厅的24小时在线客服，并按照客服的指引完成后续流程。
+小结：跟银河录像局一样，如果你购买的是ChatGPT Plus合租账号，当你完成付款后，直接点击星际放映厅官网导航栏中的“我的车票”即可找到使用入口。如果你想直接购买ChatGPT Plus原生独立账号，或者为自己的ChatGPT账号代充值，那么当你完成付款后，需要联系星际放映厅的24小时在线客服，并按照客服的指引完成后续流程。
 
 <p align="center"><a href="https://wallvpn.com/go/xjfyt/">立即访问星际放映厅官网</a></p>
 
