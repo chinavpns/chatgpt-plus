@@ -26,55 +26,55 @@ OK，废话不多说，下面正式进入正题。接下来我们会为大家推
 
 如果你还没有ChatGPT账号，可以通过银河录像局购买一个ChatGPT 3.5账号，价格也很便宜，每个账号仅需10元！
 
-![通过银河录像局购买ChatGPT 3.5账号](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%E5%B8%90%E5%8F%B7%E8%B4%AD%E4%B9%B0--%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-1.png)
+![通过银河录像局购买ChatGPT 3.5账号](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E8%B4%AD%E4%B9%B0-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-1.png)
 
 ### 二、购买ChatGPT Plus镜像版
 
 “ChatGPT Plus镜像版”不仅**无需科学上网、无需注册账号，也没有封号风险**，而且价格也非常便宜，**每月仅需29元**。该服务不仅支持GPT-5.1、GPT-4o等模型，还支持满血版DeepSeek-R1、马斯克的Grok-4，以及谷歌Gemini-2.5 Pro等顶尖大模型，让你能够同时体验多种前沿AI技术的强大功能。不过，“ChatGPT Plus镜像版”有使用次数限制，更适合ChatGPT轻度用户。
 
-![通过银河录像局购买ChatGPT Plus镜像服务](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%E5%B8%90%E5%8F%B7%E8%B4%AD%E4%B9%B0--%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-2.png)
+![通过银河录像局购买ChatGPT Plus镜像版](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E8%B4%AD%E4%B9%B0-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-2.png)
 
 ### 三、合租ChatGPT Plus会员
 
 “共享会员”是银河录像局推出的**ChatGPT Plus原生账号合租**服务，用户可以使用ChatGPT Plus会员的所有功能和服务，而且价格也比较便宜，**最低每月76元**。不过，“共享会员”服务也有使用次数限制，也仅适合ChatGPT轻度用户使用。
 
-![通过银河录像局合租ChatGPT Plus原生账号](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%E5%B8%90%E5%8F%B7%E8%B4%AD%E4%B9%B0--%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-3.png)
+![通过银河录像局合租ChatGPT Plus会员](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E8%B4%AD%E4%B9%B0-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-3.png)
 
 ### 四、购买ChatGPT Plus账号（原生独立账号）
 
 如果你还没有ChatGPT账号，并且是ChatGPT重度用户的话，那么可以选择银河录像局提供的“独立会员”服务。银河录像局会**直接给你提供一个已经完成订阅充值的ChatGPT Plus原生独立账号**，用户拿到后即可直接使用，没有任何功能和使用次数限制，**每月仅需171元（年付套餐价格低至158元/月）**，非常适合ChatGPT重度用户。
 
-![通过银河录像局购买ChatGPT Plus原生独立账号](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%E5%B8%90%E5%8F%B7%E8%B4%AD%E4%B9%B0-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-4-3.png)
+![通过银河录像局购买ChatGPT Plus账号（原生独立账号）](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E8%B4%AD%E4%B9%B0-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-4.png)
 
 ### 五、给你自己的ChatGPT账号代充值
 
 如果你是ChatGPT的老用户，并且希望继续使用自己原来的ChatGPT账号，也可以选择银河录像局提供的“ChatGPT Plus代充”服务。现在参与平台活动的话，ChatGPT Plus代充值的“1个月”套餐仅需189元，“1年”套餐价格低至174元/月。
 
-![通过银河录像局为现有ChatGPT账号代充值](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%E5%B8%90%E5%8F%B7%E8%B4%AD%E4%B9%B0--%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-6-4.png)
+![通过银河录像局给你自己的ChatGPT账号代充值](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E8%B4%AD%E4%B9%B0-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-5.png)
 
 ### 六、购买Codex拼车服务
 
 如果你是专业开发人员，也可以选择Codex拼车服务。其中，Codex拼车Plus版为59元/月，Codex拼车Pro版为109元/月，价格实惠、性价比高，非常适合个人开发者和团队长期使用。
 
-![通过银河录像局购买Codex中转服务](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/Codex%E4%B8%AD%E8%BD%AC.png)
+![通过银河录像局购买Codex拼车服务](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E8%B4%AD%E4%B9%B0-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-6.png)
 
 ### 七、合租或者代充值其他AI工具账号
 
 银河录像局还提供Claude Pro网页镜像（14元起）、Claude Code拼车、Midjourney合租（27元/月）等服务。
 
-![通过银河录像局合租或者代充值其他AI工具账号](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%E5%B8%90%E5%8F%B7%E8%B4%AD%E4%B9%B0--%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-7-2.png)
+![通过银河录像局合租或者代充值其他AI工具账号](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E8%B4%AD%E4%B9%B0-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-7.png)
 
 ### 八、合租Netflix、Youtube、Spotify等流媒体账号
 
 银河录像局还提供Netflix、Disney、HBO Max、Prime Video、YouTube、Spotify、iCloud+等流媒体账号合租服务。
 
-![通过银河录像局合租Netflix、Spotify等流媒体账号](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%E5%B8%90%E5%8F%B7%E8%B4%AD%E4%B9%B0--%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-8.png)
+![通过银河录像局合租Netflix、Youtube、Spotify等流媒体账号](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E8%B4%AD%E4%B9%B0-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-8.png)
 
 ### 九、购买美区Apple ID账号和Google账号
 
 银河录像局还提供美区Apple ID账号（20元/个）、Google账号（20元/个）等服务。
 
-![通过银河录像局购买美区Apple ID账号、Google账号](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%E5%B8%90%E5%8F%B7%E8%B4%AD%E4%B9%B0--%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-9-1.png)
+![通过银河录像局购买美区Apple ID账号和Google账号](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%E5%B8%90%E5%8F%B7%E8%B4%AD%E4%B9%B0--%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-9-1.png)
 
 **重要提示**：如果你选择的是拼车合租ChatGPT Plus会员服务，那么在你完成支付后，点击银河录像局官网导航栏中的"车票"即可找到使用入口。如果你是购买ChatGPT Plus账号（原生独立账号），那么当你完成支付后需要联系银河录像局的24小时在线客服，他们的在线客服会直接为你提供一个已经完成订阅充值的ChatGPT Plus账号，你拿过来就可以直接使用。如果你选择ChatGPT Plus代充值服务，**银河录像局将为你提供24小时自动化自助充值通道，无需向平台透露自己的ChatGPT账号和密码**，这样既能最大程度保障隐私安全，又能确保操作便捷高效，而且ChatGPT自助充值流程非常简单，通常只需五分钟即可完成。
 
