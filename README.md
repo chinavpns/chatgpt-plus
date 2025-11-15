@@ -96,7 +96,7 @@ OK，废话不多说，下面正式进入正题。接下来我们会为大家推
 
 三、星际放映厅还提供**ChatGPT Plus代充值**服务，你可以选择为你现有的ChatGPT账号代充值。
 
-![星际放映厅还提供ChatGPT Plus代充值服务](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%E8%B4%A6%E5%8F%B7%E8%B4%AD%E4%B9%B0-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-3.png)
+![星际放映厅还提供ChatGPT Plus代充值服务](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E8%B4%AD%E4%B9%B0-%E6%98%9F%E9%99%85%E6%94%BE%E6%98%A0%E5%8E%85-9.png)
 
 四、跟银河录像局一样，星际放映厅也提供原生**Claude Pro账号合租、Claude Pro原生独立账号、Claude Pro代充值、SuperGrok合租、SuperGrok原生独立账号、SuperGrok代充值、原生Midjourney独立账号、Midjourney代充值、原生POE独立账号**等服务。
 
