@@ -120,7 +120,7 @@ OK，废话不多说，下面正式进入正题。接下来我们会为大家推
 
 一、环球巴士提供ChatGPT Plus镜像服务、原生ChatGPT Plus账号合租、原生ChatGPT Plus独立账号、ChatGPT Plus代充值等服务。当然，你也可以通过环球巴士购买ChatGPT 3.5账号。
 
-![环球巴士提供ChatGPT Plus镜像服务、原生ChatGPT Plus账号合租、原生ChatGPT Plus独立账号、ChatGPT Plus代充值等服务。当然，你也可以通过环球巴士购买ChatGPT 3.5账号](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%E8%B4%A6%E5%8F%B7%E8%B4%AD%E4%B9%B0-%E7%8E%AF%E7%90%83%E5%B7%B4%E5%A3%AB-1.png)
+![环球巴士提供ChatGPT Plus镜像服务、原生ChatGPT Plus账号合租、原生ChatGPT Plus独立账号、ChatGPT Plus代充值等服务。当然，你也可以通过环球巴士购买ChatGPT 3.5账号](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E8%B4%AD%E4%B9%B0-%E7%8E%AF%E7%90%83%E5%B7%B4%E5%A3%AB-10.png)
 
 二、环球巴士也提供Claude Pro代充值服务，即给你自己现有的Claude账号进行充值。
 
@@ -130,9 +130,9 @@ OK，废话不多说，下面正式进入正题。接下来我们会为大家推
 
 ![环球巴士还提供Midjourney镜像服务](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%E8%B4%A6%E5%8F%B7%E8%B4%AD%E4%B9%B0-%E7%8E%AF%E7%90%83%E5%B7%B4%E5%A3%AB-3.png)
 
-四、环球巴士还提供不同面值的美区Apple礼品卡和港区Apple礼品卡，有需要的同学也可以看看。
+四、环球巴士还提供Apple One、Apple ID等产品，有需要的同学也可以看看。
 
-![环球巴士还提供不同面值的美区Apple礼品卡和港区Apple礼品卡](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%E8%B4%A6%E5%8F%B7%E8%B4%AD%E4%B9%B0-%E7%8E%AF%E7%90%83%E5%B7%B4%E5%A3%AB-4.png)
+![环球巴士还提供不同面值的美区Apple礼品卡和港区Apple礼品卡](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E8%B4%AD%E4%B9%B0-%E7%8E%AF%E7%90%83%E5%B7%B4%E5%A3%AB-11.png)
 
 小结：虽然环球巴士更偏向于流媒体合租，在AI工具合租和代充值方面的服务相对较少，但其专业性和服务质量是毋庸置疑的，有需要的同学可以放心大胆地使用！
 
