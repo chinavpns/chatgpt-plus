@@ -142,27 +142,33 @@ OK，废话不多说，下面正式进入正题。接下来我们会为大家推
 
 ## ChatGPT Plus充值只能使用信用卡吗？
 
-虽然OpenAI支持多种ChatGPT Plus充值方式，包括实体借记卡、信用卡、PayPal、Apple Pay、Google Pay、Apple礼品卡和Google Play礼品卡等，但遗憾的是，由于OpenAI尚未向中国用户开放服务，以上这些充值方式对中国用户（包括中国香港用户）都不适用。因此，目前中国用户能够选择的ChatGPT Plus充值方式只有三种：通过第三方平台代充值、使用海外虚拟信用卡，或者使用非中国区的苹果礼品卡。接下来，我们将详细介绍这三种充值方式的优缺点，以及适合的人群。
+虽然OpenAI支持多种ChatGPT Plus充值方式，包括实体借记卡、信用卡、PayPal、Apple Pay、Google Pay、Apple礼品卡和Google Play礼品卡等，但遗憾的是，由于OpenAI尚未向中国用户开放服务，以上这些充值方式对中国用户（包括中国香港用户）都不适用。因此，目前中国用户能够选择的ChatGPT Plus充值方式只有三种：通过第三方平台代充值、使用苹果礼品卡充值，或者使用海外虚拟信用卡充值。接下来，我们将详细介绍这三种ChatGPT Plus充值方式的优缺点，以及适合的人群。
 
-#### 方式一：通过第三方平台代充值（推荐）
+#### 方式一：通过银河录像局为你的ChatGPT账号代充值（适合大多数用户）
 
-在2025年7月12日之前，WildCard野卡虚拟信用卡一直是中国用户订阅充值ChatGPT Plus会员的主要方式，但由于一些不可描述的原因，WildCard野卡虚拟信用卡已被迫停止运营了。因此，对于绝大多数普通用户来说，通过“银河录像局”等专业第三方平台来合租ChatGPT Plus账号、购买ChatGPT Plus原生独立账号，或者为自己的ChatGPT账号代充值，已经成为目前最安全、最可靠、也是最经济实惠的ChatGPT Plus充值方式。
+在2025年7月12日之前，WildCard野卡虚拟信用卡一直是中国用户订阅充值ChatGPT Plus会员的主要方式，但由于一些不可描述的原因，WildCard野卡虚拟信用卡已被迫停止运营了。所以，自从野卡跑路之后，各类牛魔鬼怪的ChatGPT Plus充值平台如雨后春笋般出现，其中大部分都是由个人提供的服务，包括只有一个单页面的ChatGPT Plus充值网站，以及淘宝、咸鱼等平台上的ChatGPT Plus充值商家等。但在这里我们强烈建议大家务必远离这些小型ChatGPT Plus充值服务商。这类小型服务商不仅无法提供稳定的充值服务，很多甚至为了打价格战，会采用一些旁门左道的方式，而且完全没有售后支持。一旦遇到ChatGPT Plus充值失败、扣款异常、账号被封等问题，你也只能自认倒霉。
 
-<p align="center"><a href="https://wallvpn.com/go/nf-video/">立即访问银河录像局官网</a></p>
+因此，对于绝大多数普通用户来说，通过“<a href="https://wallvpn.com/go/nf-video/">银河录像局</a>”等专业第三方平台来合租ChatGPT Plus账号、购买ChatGPT Plus账号，或者为自己的ChatGPT账号代充值，是目前最稳妥的选择。银河录像局成立于2019年，由专业团队长期稳定运营，在工信部也有备案，并拥有互联网经营许可证，同时提供24小时在线客服和完善的售后保障，是目前最安全、最可靠、也最经济实惠的ChatGPT Plus充值方式。
 
-#### 方式二：使用国外虚拟信用卡充值（不推荐）
+![ChatGPT Plus充值方式一：通过银河录像局为你的ChatGPT账号代充值](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%E5%85%85%E5%80%BC-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-1.png)
 
-2024年8月，曾经红极一时的FomPay突然跑路；2025年7月12日，WildCard野卡被迫停止运营；2025年7月18日左右，BinGoCard虚拟信用卡也宣告停止运营。如今，市面上虽然还存在一些非常小型的虚拟信用卡，但在国内的大环境下，这些小卡商往往割一波韭菜就跑路，建议大家务必远离。而国外虽然也有不少虚拟信用卡服务，但绝大多数体验并不好，不仅验证流程繁琐，还只支持USDT等虚拟货币充值，对国内用户极为不友好，所以我们也不建议普通用户去尝试。
+<p align="center"><a href="https://wallvpn.com/go/nf-video/">访问银河录像局官网</a></p>
 
-#### 方式三：使用非中国区苹果礼品卡充值（慎选）
+#### 方式二：使用苹果礼品卡充值ChatGPT Plus会员（仅限iOS设备用户）
 
-相信很多同学在网上都看到过使用苹果礼品卡充值ChatGPT Plus的各种教程。如果你想用苹果礼品卡订阅ChatGPT Plus会员，首先需要准备一个非中国区的Apple ID，比如美区、港区或日区等。然后，购买一张与Apple ID地区相对应的苹果礼品卡，并将卡内金额充值到该Apple ID账号。接下来，在iOS设备上登录这个非中国区的Apple ID，下载并安装ChatGPT官方App。最后，在App内选择升级为ChatGPT Plus，系统会自动使用你Apple ID账户里的礼品卡余额进行支付，从而顺利开通ChatGPT Plus订阅。
+如果你使用的是iPhone或者iPad等设备，并且比较喜欢折腾的话，那么你也可以选择使用苹果礼品卡来充值ChatGPT Plus会员。首先，你需要准备一个美区Apple ID账号。其次，你需要购买一张面值大于20美金的苹果礼品卡，并将礼品卡余额成功充值到你的美区Apple ID账户中。接下来，在你的iOS设备上登录美区Apple ID账号，然后下载并安装ChatGPT iOS APP。最后，打开ChatGPT APP并选择升级为ChatGPT Plus，系统会自动使用你美区Apple ID账户里的余额进行支付，从而顺利完成ChatGPT Plus订阅。
 
-这种“曲线救国”的方式操作起来非常复杂，并且仅适用于拥有iOS设备的用户。此外，虽然该方式理论上可行，但根据大量用户反馈，充值成功的概率较低，许多用户不仅充值失败，甚至还出现了ChatGPT账号被封的情况。因此，如果你喜欢折腾，并且不介意充值失败的风险，可以尝试这种方法；但对于大多数普通用户，我们还是建议不要浪费时间。
+这种“曲线救国”的方式本身操作难度较大，并且只适合拥有iOS设备的用户。此外，使用苹果礼品卡充值ChatGPT Plus会员的关键在于你需要通过“<a href="https://wallvpn.com/go/acceboy/">账号星球</a>”这个专业平台购买一个美区Apple ID账号和一张面值超过20美金的苹果礼品卡，之后才能按照刚刚介绍的流程去充值ChatGPT Plus会员。
 
-此外，**如果你需要购买非中国区的Apple ID账号，可以通过“银河录像局”购买，每个仅需15元；如果你想购买美区Apple礼品卡或者港区Apple礼品卡，可以通过“环球巴士”购买**。具体的购买流程我们在前文已经介绍过来，大家可以回头去看看。
+![ChatGPT Plus充值方式二：使用苹果礼品卡充值ChatGPT Plus会员](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%E5%85%85%E5%80%BC-%E8%B4%A6%E5%8F%B7%E6%98%9F%E7%90%83-2.png)
 
-<p align="center"><a href="https://wallvpn.com/go/nf-video/">访问银河录像局官网</a>或者<a href="https://wallvpn.com/go/hqbs/">访问环球巴士官网</a></p>
+<p align="center"><a href="https://wallvpn.com/go/acceboy/">访问账号星球官网</a></p>
+
+#### 方式三：使用虚拟信用卡充值ChatGPT Plus会员（仅适合技术大佬）
+
+2024年8月，曾经红极一时的FomPay突然跑路；2025年7月12日，WildCard野卡被迫停止运营；2025年7月18日左右，BinGoCard虚拟信用卡也宣告停止运营。如今市面上虽然还存在一些规模很小的虚拟信用卡服务商，但在国内的大环境下，这些小卡商往往都是割一波韭菜就跑路。因此，我们建议大家务必远离这些不稳定的小型虚拟信用卡。
+
+虽然国外也有不少虚拟信用卡服务，但大多数体验并不友好：验证流程复杂、KYC门槛高、审核严格，而且充值大多只支持USDT等虚拟货币，对国内用户极为不友好。此外，这类虚拟信用卡也容易触发OpenAI的支付风控，导致支付失败甚至账号受限。所以，这种方式仅适合对技术水平过硬、熟悉虚拟货币或境外支付体系的技术大佬；对于普通用户来说，这种方式难度高、风险大，并不推荐尝试。
 
 ## 充值ChatGPT Plus时信用卡被拒怎么办？
 
