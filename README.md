@@ -1,6 +1,6 @@
 # 2025年最新ChatGPT充值攻略：WildCard野卡跑路后，如何为你的ChatGPT代充值？如何购买ChatGPT Plus账号(原生独立账号)？如何拼车合租ChatGPT Plus会员？
 
-<p align="center">最近更新于：2025年11月15日</p>
+<p align="center">最近更新于：2025年11月20日</p>
 
 ![2025年最新ChatGPT充值攻略：WildCard野卡跑路后，如何为你的ChatGPT代充值？如何购买ChatGPT Plus账号(原生独立账号)？如何拼车合租ChatGPT Plus会员？](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E8%B4%AD%E4%B9%B0.png)
 
@@ -30,7 +30,7 @@ OK，废话不多说，下面正式进入正题。接下来我们会为大家推
 
 ### 二、购买ChatGPT Plus镜像版
 
-“ChatGPT Plus镜像版”不仅**无需科学上网、无需注册账号，也没有封号风险**，而且价格也非常便宜，**每月仅需29元**。该服务不仅支持GPT-5.1、GPT-4o等模型，还支持满血版DeepSeek-R1、马斯克的Grok-4，以及谷歌Gemini-2.5 Pro等顶尖大模型，让你能够同时体验多种前沿AI技术的强大功能。不过，“ChatGPT Plus镜像版”有使用次数限制，更适合ChatGPT轻度用户。
+“ChatGPT Plus镜像版”不仅**无需科学上网、无需注册账号，也没有封号风险**，而且价格也非常便宜，**每月仅需29元**。该服务不仅支持GPT-5.1、GPT-4o等模型，还支持满血版DeepSeek-R1、马斯克的Grok-4.1，以及谷歌Gemini-3 Pro等顶尖大模型，让你能够同时体验多种前沿AI技术的强大功能。不过，“ChatGPT Plus镜像版”有使用次数限制，更适合ChatGPT轻度用户。
 
 ![通过银河录像局购买ChatGPT Plus镜像版](https://raw.githubusercontent.com/chinavpns/chatgpt-plus/refs/heads/main/image/ChatGPT%20Plus%E8%B4%AD%E4%B9%B0-%E9%93%B6%E6%B2%B3%E5%BD%95%E5%83%8F%E5%B1%80-2.png)
 
